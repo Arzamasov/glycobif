@@ -1,0 +1,73 @@
+Subsystem	Phenotype	isDone	Filename
+Glucose utilization in bifidobacteria	Glc	1	Glucose utilization in bifidobacteria_Glc.csv
+Galactose utilization in bifidobacteria	Gal	1	Galactose utilization in bifidobacteria_Gal.csv
+Ribose utilization in bifidobacteria	Rib	1	Ribose utilization in bifidobacteria_Rib.csv
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	1	N-acetylglucosamine utilization in bifidobacteria_GlcNAc.csv
+N-acetylglucosamine utilization in bifidobacteria	Chb	1	N-acetylglucosamine utilization in bifidobacteria_Chb.csv
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	1	N-acetylglucosamine utilization in bifidobacteria_GlcNAc6S.csv
+Fucose utilization in bifidobacteria	Fuc	1	Fucose utilization in bifidobacteria_Fuc.csv
+Sialic acid utilization in bifidobacteria	Neu5Ac	1	Sialic acid utilization in bifidobacteria_Neu5Ac.csv
+Sialic acid utilization in bifidobacteria	ManNAc	0	Sialic acid utilization in bifidobacteria_ManNAc.csv
+HMO utilization in bifidobacteria	LNB	1	HMO utilization in bifidobacteria_LNB.csv
+HMO utilization in bifidobacteria	LNT	1	HMO utilization in bifidobacteria_LNT.csv
+HMO utilization in bifidobacteria	LNnT	1	HMO utilization in bifidobacteria_LNnT.csv
+HMO utilization in bifidobacteria	2'FL	1	HMO utilization in bifidobacteria_2'FL.csv
+HMO utilization in bifidobacteria	3FL	1	HMO utilization in bifidobacteria_3FL.csv
+HMO utilization in bifidobacteria	LDFT	1	HMO utilization in bifidobacteria_LDFT.csv
+HMO utilization in bifidobacteria	LNFPI	1	HMO utilization in bifidobacteria_LNFPI.csv
+HMO utilization in bifidobacteria	lcFHMO	1	HMO utilization in bifidobacteria_lcFHMO.csv
+HMO utilization in bifidobacteria	SHMO	1	HMO utilization in bifidobacteria_SHMO.csv
+N-glycan utilization in bifidobacteria	Nglyc	1	N-glycan utilization in bifidobacteria_Nglyc.csv
+N-glycan utilization in bifidobacteria	Ncore	1	N-glycan utilization in bifidobacteria_Ncore.csv
+O-glycan utilization in bifidobacteria	GalNAc	0	O-glycan utilization in bifidobacteria_GalNAc.csv
+O-glycan utilization in bifidobacteria	GNB	1	O-glycan utilization in bifidobacteria_GNB.csv
+O-glycan utilization in bifidobacteria	Tan	1	O-glycan utilization in bifidobacteria_Tan.csv
+O-glycan utilization in bifidobacteria	Muc	1	O-glycan utilization in bifidobacteria_Muc.csv
+Maltose and starch utilization in bifidobacteria	Mal	1	Maltose and starch utilization in bifidobacteria_Mal.csv
+Maltose and starch utilization in bifidobacteria	MOS	1	Maltose and starch utilization in bifidobacteria_MOS.csv
+Maltose and starch utilization in bifidobacteria	ST	1	Maltose and starch utilization in bifidobacteria_ST.csv
+Maltose and starch utilization in bifidobacteria	RST	1	Maltose and starch utilization in bifidobacteria_RST.csv
+Maltose and starch utilization in bifidobacteria	PUL	1	Maltose and starch utilization in bifidobacteria_PUL.csv
+Alpha-glucoside utilization in bifidobacteria	IMO	1	Alpha-glucoside utilization in bifidobacteria_IMO.csv
+Alpha-glucoside utilization in bifidobacteria	Mlz	1	Alpha-glucoside utilization in bifidobacteria_Mlz.csv
+Beta-glucoside utilization in bifidobacteria	BglOS	1	Beta-glucoside utilization in bifidobacteria_BglOS.csv
+Beta-glucoside utilization in bifidobacteria	BGL12	1	Beta-glucoside utilization in bifidobacteria_BGL12.csv
+Alpha-galactoside utilization in bifidobacteria	Mel	1	Alpha-galactoside utilization in bifidobacteria_Mel.csv
+Alpha-galactoside utilization in bifidobacteria	RFO	1	Alpha-galactoside utilization in bifidobacteria_RFO.csv
+Beta-galactoside utilization in bifidobacteria	Lac	1	Beta-galactoside utilization in bifidobacteria_Lac.csv
+Beta-galactoside utilization in bifidobacteria	GOS	1	Beta-galactoside utilization in bifidobacteria_GOS.csv
+Beta-galactoside utilization in bifidobacteria	PG	1	Beta-galactoside utilization in bifidobacteria_PG.csv
+Beta-galactoside utilization in bifidobacteria	AGII	1	Beta-galactoside utilization in bifidobacteria_AGII.csv
+Beta-galactoside utilization in bifidobacteria	GalAf	1	Beta-galactoside utilization in bifidobacteria_GalAf.csv
+Beta-galactoside utilization in bifidobacteria	GA	1	Beta-galactoside utilization in bifidobacteria_GA.csv
+Fructose and fructoside utilization in bifidobacteria	Fru	1	Fructose and fructoside utilization in bifidobacteria_Fru.csv
+Fructose and fructoside utilization in bifidobacteria	Scr	1	Fructose and fructoside utilization in bifidobacteria_Scr.csv
+Fructose and fructoside utilization in bifidobacteria	scFOS	1	Fructose and fructoside utilization in bifidobacteria_scFOS.csv
+Fructose and fructoside utilization in bifidobacteria	lcFOS	1	Fructose and fructoside utilization in bifidobacteria_lcFOS.csv
+Fructose and fructoside utilization in bifidobacteria	DFA	1	Fructose and fructoside utilization in bifidobacteria_DFA.csv
+Mannose and mannoside utilization in bifidobacteria	Man	0	Mannose and mannoside utilization in bifidobacteria_Man.csv
+Mannose and mannoside utilization in bifidobacteria	bMnOS	1	Mannose and mannoside utilization in bifidobacteria_bMnOS.csv
+Mannose and mannoside utilization in bifidobacteria	GmOS	1	Mannose and mannoside utilization in bifidobacteria_GmOS.csv
+Mannose and mannoside utilization in bifidobacteria	bMAN	1	Mannose and mannoside utilization in bifidobacteria_bMAN.csv
+Xylose and xyloside utilization in bifidobacteria	Xyl	1	Xylose and xyloside utilization in bifidobacteria_Xyl.csv
+Xylose and xyloside utilization in bifidobacteria	XOS	1	Xylose and xyloside utilization in bifidobacteria_XOS.csv
+Xylose and xyloside utilization in bifidobacteria	AXOS	1	Xylose and xyloside utilization in bifidobacteria_AXOS.csv
+Xylose and xyloside utilization in bifidobacteria	XL	1	Xylose and xyloside utilization in bifidobacteria_XL.csv
+Xylose and xyloside utilization in bifidobacteria	AX	1	Xylose and xyloside utilization in bifidobacteria_AX.csv
+Arabinose and arabinoside utilization in bifidobacteria	Ara	1	Arabinose and arabinoside utilization in bifidobacteria_Ara.csv
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	1	Arabinose and arabinoside utilization in bifidobacteria_aAOS.csv
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	1	Arabinose and arabinoside utilization in bifidobacteria_bAOS.csv
+Arabinose and arabinoside utilization in bifidobacteria	AR	1	Arabinose and arabinoside utilization in bifidobacteria_AR.csv
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	1	Arabinose and arabinoside utilization in bifidobacteria_HRGP.csv
+Xyloglucan catabolism in bifidobacteria	XglOS	1	Xyloglucan catabolism in bifidobacteria_XglOS.csv
+Xyloglucan catabolism in bifidobacteria	XGL	1	Xyloglucan catabolism in bifidobacteria_XGL.csv
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	1	D-glucuronate and glucuronide utilization in bifidobacteria_GlcA.csv
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	1	D-glucuronate and glucuronide utilization in bifidobacteria_GluA.csv
+D-glucuronate and glucuronide utilization in bifidobacteria	GalA	0	D-glucuronate and glucuronide utilization in bifidobacteria_GalA.csv
+D-gluconate utilization in bifidobacteria	Gco	1	D-gluconate utilization in bifidobacteria_Gco.csv
+D-galactonate utilization in bifidobacteria	Glt	1	D-galactonate utilization in bifidobacteria_Glt.csv
+Inositol utilization in bifidobacteria	Ino	1	Inositol utilization in bifidobacteria_Ino.csv
+Sugar alcohol utilization in bifidobacteria	Mtl	1	Sugar alcohol utilization in bifidobacteria_Mtl.csv
+Sugar alcohol utilization in bifidobacteria	Stl	1	Sugar alcohol utilization in bifidobacteria_Stl.csv
+Ascorbate utilization in bifidobacteria	Asc	1	Ascorbate utilization in bifidobacteria_Asc.csv
+Ascorbate utilization in bifidobacteria	L-Xul	1	Ascorbate utilization in bifidobacteria_L-Xul.csv

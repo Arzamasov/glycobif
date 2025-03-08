@@ -1,0 +1,2 @@
+genome_ID	curated_taxonomy
+ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222

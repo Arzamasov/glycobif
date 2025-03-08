@@ -1,0 +1,590 @@
+role	count	mean	sd	sd/mean	median
+Putative beta-L-arabinofuranosidase (GH127)	150	721.7466666666667	99.49634409810689	13.785494092771271	742.0
+Alpha-N-acetylgalactosaminidase (GH129)	152	630.5723684210526	2.144767113121862	0.3401302087645133	631.0
+UDP-glucose---hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)	192	509.7864583333333	12.803044232652791	2.511452398031586	515.0
+Putative glycoside hydrolase (GH2)	5	557.6	52.890830963409904	9.485443142648835	586.0
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	208	315.6442307692308	48.41604912495259	15.338803756039448	335.0
+Putative transcriptional regulator of caramelized fructose utilization (LacI family)	19	330.1578947368421	7.478130626910056	2.2650164500444934	326.0
+Alpha-1,3-galactosidase (GH36)	18	714.2222222222222	4.130584510098024	0.578333238812729	716.0
+Putative N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	1	444.0	0.0	0.0	444.0
+XOS/AXOS ABC transporter-1 permease component 1 (TC 3.A.1.1)	142	337.63380281690144	41.983477446447075	12.434619133563082	350.0
+Putative transcriptional regulator of galactose utilization (LacI family)	2	344.0	0.0	0.0	344.0
+Extracellular beta-1,6-N-acetylglucosaminidase (GH84)	22	1957.409090909091	6.520311557733828	0.333109291666034	1960.0
+Hydroxycinnamic acid esterase	49	307.3673469387755	32.53173889939498	10.583993135053145	314.0
+Putative N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	140	279.0	3.141882965902545	1.1261229268467903	279.0
+Broad specificity alpha-glucosidase (GH13_30)	214	592.373831775701	49.24647591442856	8.313411780329192	604.0
+Putative ascorbate kinase	2	320.0	0.0	0.0	320.0
+Putative HMO ABC transporter (Blon_2351) substrate-binding component (TC 3.A.1.1)	12	533.0	1.4719601443879744	0.27616513027916967	534.0
+Alpha-1,6-galactosidase (GH36)	8	760.0	13.583077707206124	1.7872470667376479	764.5
+Beta-1,6-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	174	295.3333333333333	41.853237468444874	14.171525102182239	308.0
+Double substituted AXOS alpha-1,3-L-arabinofuranosidase (GH43_10)	65	503.24615384615385	29.917337792519508	5.9448716227378195	497.0
+Predicted transcriptional regulator of beta-glucoside utilization-3 (TetR family)	59	210.77966101694915	5.790312765213016	2.7470927400093914	209.0
+Beta-L-arabinopyranosidase (GH27)	134	470.14925373134326	14.370631049349084	3.056610413671075	469.0
+Putative transcriptional regulator of inositol utilization-1 (IclR family)	7	253.0	0.0	0.0	253.0
+Putative acetylmannan esterase (CE2)	36	374.30555555555554	20.250952576284245	5.410273044498945	365.0
+Extracellular 3-O-beta-L-arabinopyranosyl-alpha-L-arabinofuranosidase-2 (GH39)	8	1073.125	2.7128168017763383	0.2527959745394375	1073.0
+Predicted flavonoid/ginsenoside MFS permease (TC 2.A.1.2)	75	414.52	63.05920181332248	15.212583666245896	441.0
+Xylose isomerase (EC 5.3.1.5)	201	448.23383084577114	4.983560012606204	1.1118214801419024	449.0
+Putative gentiobiose MFS permease (TC 2.A.1.2)	61	414.1967213114754	69.7771205097147	16.846372006224165	441.0
+Alpha-1,2/3/4-glucosidase (GH13_30)	93	556.3655913978495	2.2849905119050047	0.4106994658249883	556.0
+Scyllo-inosose dehydratase (EC 4.2.1.44)	7	295.0	0.0	0.0	295.0
+Extracellular monosubstituted arabinoxylan alpha-1,2/3-L-arabinofuranosidase (GH43_16)	110	826.6727272727272	37.544908646702766	4.5416895233216446	832.0
+Putative alpha-arabinooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	4	297.5	0.5	0.16806722689075632	297.5
+Putative diacetylchitobiose ABC transporter permease component 2 (TC 3.A.1.1)	4	300.0	1.7320508075688772	0.5773502691896257	301.0
+Extracellular beta-1,3-L-arabinofuranosidase (GH146)	12	1109.0833333333333	821.5456427098592	74.07429342939598	1325.5
+Beta-1,4-galactosidase-3 (GH2)	26	1043.7307692307693	6.958988058108693	0.6667416792969967	1049.0
+Putative Gal(a1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	19	397.7894736842105	69.78506773422492	17.54321628671968	419.0
+Fructose/xylose/ribose/arabinose ABC transporter ATP-binding component (TC 3.A.1.2.23)	137	512.3503649635037	5.960442888648917	1.1633529116493355	513.0
+Beta-mannose-oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	21	300.76190476190476	6.603785075565606	2.1956853481139604	298.0
+Endo-beta-N-acetylglucosaminidase-1 (GH18)	8	560.125	40.01698857985193	7.144296108877827	545.0
+Putative HMO ABC transporter permease component 2 (TC 3.A.1.1)	30	320.1333333333333	2.124983660067897	0.6637808184302053	320.0
+Amylosucrase (EC 2.4.1.4)	98	598.5510204081633	139.997093442786	23.389333351619605	605.0
+Putative xyloglucan acetylesterase	31	254.16129032258064	48.406275768942805	19.04549497191556	272.0
+Putative anaerobic N-glycan sulfatase maturing enzyme	3	408.6666666666667	25.927248643506744	6.344351217823836	427.0
+Reducing end xylose-releasing exo-oligoxylanase-1 (GH8)	58	379.12068965517244	2.2056165469006506	0.5817716118069841	379.0
+Putative N-glycan beta-N-acetylglucosaminidase (GH20)	6	673.3333333333334	9.195409482755814	1.3656548736766059	670.0
+Putative sucrose/fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	26	437.0	0.0	0.0	437.0
+Putative transcriptional regulator of alpha-glucosidase (LacI family)	21	344.6666666666667	9.0886288626599	2.63693293887618	337.0
+Transcriptional regulator of N-acetylneuraminate utilization (GntR family)	54	268.2962962962963	21.514533958879145	8.018945567224419	283.0
+Putative N-glycan beta-mannosidase (GH5_18)	3	414.0	0.0	0.0	414.0
+Beta-1,4-xylosidase-2 (GH120)	12	651.0833333333334	15.283206106340675	2.3473502275193665	664.0
+Putative N-acetylglucosamine-specific PTS system IIA component (TC 4.A.1)	54	154.88888888888889	13.763433393068464	8.886004342727128	148.0
+L-fuconolactone hydrolase-1 (EC 3.1.1.-)	39	260.53846153846155	37.24131022636993	14.293977943395605	273.0
+Putative xyloglucan oligosaccharide ABC transporter-4 substrate-binding component (TC 3.A.1.1)	20	340.85	88.65905199132236	26.01116385252233	391.0
+Putative beta-1,2-oligoglucan ABC transporter permease component 2 (TC 3.A.1.5)	4	312.25	4.9180788932265	1.5750452820581264	314.5
+Transcriptional regulator of fucose utilization (LacI family)	59	343.22033898305085	9.178212588830599	2.6741458900790387	342.0
+Putative transcriptional regulator of panose/isomaltooligosaccharide utilization-1 (LacI family)	21	341.0	0.0	0.0	341.0
+Extracellular endo-alpha-1,5-L-arabinanase (GH43_4)	87	528.7586206896551	4.621204294551987	0.8739723786488043	531.0
+Putative Gal(a1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	18	309.8888888888889	18.199172413689855	5.872805726898841	308.0
+Putative sucrose ABC transporter permease component 2 (TC 3.A.1.1)	29	284.48275862068965	2.7369841148944043	0.9620913858416693	285.0
+Panose/isomaltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	240	289.6666666666667	4.89614360718946	1.6902682188225981	288.0
+Predicted transcriptional regulator of the bgl cluster (TetR family)	9	219.77777777777777	5.533288710217215	2.517674337308136	224.0
+N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	55	315.2	5.146578740024555	1.6327978236118514	318.0
+Putative glucuronide ABC transporter permease component 2 (TC 3.A.1.1)	11	296.8181818181818	1.9917183909278766	0.6710230413539553	296.0
+Putative beta-glucooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	9	321.0	0.0	0.0	321.0
+Beta-1,3-galactosidase (GH2)	9	601.2222222222222	13.513596262676241	2.2476874212545956	606.0
+Lacto-N-biose/galacto-N-biose ABC transporter-1 substrate-binding component (TC 3.A.1.1.48)	216	430.89814814814815	41.686981673120556	9.674439737621721	438.0
+Predicted alpha-glucoside ABC transporter substrate-binding component (TC 3.A.1.1)	40	437.675	78.51922933269276	17.94007638834586	462.0
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 2 (TC 3.A.1.1.48)	211	317.7630331753555	1.9005507542592777	0.5981031636271142	319.0
+Putative xylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	1	437.0	0.0	0.0	437.0
+Transcriptional regulator of LNnT utilization (ROK family)	31	389.1290322580645	8.97933805838166	2.30754770629057	391.0
+Putative anaerobic N-glycan sulfatase (EC 3.1.6.1)	3	480.3333333333333	0.9428090415820634	0.19628224321625193	481.0
+HMO cluster I alpha-2,3/6-sialidase (GH33)	16	394.0	0.0	0.0	394.0
+N-acetylmannosamine kinase (EC 2.7.1.60)	66	335.1818181818182	19.93011205164649	5.946060009984035	335.0
+Putative alpha-L-arabinofuranosidase (GH43_27)	4	602.0	0.0	0.0	602.0
+Arabinoxylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	12	288.0	0.0	0.0	288.0
+Putative alpha-L-arabinofuranosidase (GH51)	146	726.5479452054794	97.10374921812327	13.365084831484971	751.0
+Putative transcriptional regulator of alpha-arabinooligosaccharide utilization-2 (LacI family)	217	345.3456221198157	2.4915325184284254	0.7214605771269926	344.0
+Alpha-1,2/3/6-mannosidase-1 (GH38)	137	1005.3649635036496	126.23277512979531	12.555915484649477	1039.0
+Putative transcriptional regulator of XOS utilization (TetR family)	1	211.0	0.0	0.0	211.0
+Reducing end xylose-releasing exo-oligoxylanase-2 (GH8)	18	372.22222222222223	15.57974309999136	4.1856026238782755	377.0
+Putative transcriptional regulator of alpha-arabinooligosaccharide utilization (LacI family)	114	354.859649122807	4.028140472520649	1.1351362383629653	357.0
+Putative fructose MFS permease (TC 2.A.1.7)	94	337.93617021276594	117.75233733151484	34.844549861998345	414.0
+Putative xyloglucan oligosaccharide ABC transporter-3 permease component 2 (TC 3.A.1.1)	5	333.8	59.6	17.855002995805872	304.0
+Uronate isomerase (EC 5.3.1.12)	17	475.52941176470586	0.4991341984846218	0.1049638962671768	476.0
+Lactulose ABC transporter substrate-binding component (TC 3.A.1.1)	259	465.5173745173745	7.042801252165033	1.5128976140722272	463.0
+Predicted alpha-glucoside ABC transporter-2 substrate-binding component (TC 3.A.1.1)	21	454.0	0.0	0.0	454.0
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization (LacI family)	23	327.2173913043478	76.87819644637145	23.49453253078054	345.0
+Putative alpha-L-rhamnosidase (GH78)	10	837.4	124.80320508704895	14.903654775143178	775.0
+Transcriptional regulator of arabinose utilization and central carbohydrate metabolism (LacI family)	265	370.45283018867923	3.459556290318326	0.9338722796519878	371.0
+Difructose dianhydride III hydrolase (GH91)	3	452.0	0.0	0.0	452.0
+Putative fructooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	3	320.0	0.0	0.0	320.0
+Putative N-acetylglucosamine-specific PTS system IIB component (TC 4.A.1)	54	365.6296296296296	171.15980147395464	46.812344406369284	507.0
+Panose/isomaltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	241	427.9004149377593	24.58329983003138	5.745098385475314	429.0
+LNnT ABC transporter substrate-binding component (TC 3.A.1.1)	34	410.8529411764706	82.89792885830465	20.177031864717286	441.0
+Alpha-1,2/3/6-mannosidase-2 (GH38)	134	1029.0223880597016	108.82105442805859	10.575188226297854	1050.0
+2-keto-3-deoxy-L-fuconate aldolase-2 (EC 4.1.2.18)	46	297.60869565217394	2.8550356798925227	0.9593253562823669	297.0
+Glucose DMT permease (TC 2.A.7.5)	26	297.3076923076923	13.492930430326584	4.538372460394453	295.0
+Alpha-1,4-glucosidase (GH13_44)	87	574.2988505747127	42.14646463746921	7.338768760427149	543.0
+Beta-1,2/3/5-L-arabinofuranosidase (GH127)	11	659.6363636363636	0.7713892158398701	0.11694158454022287	660.0
+1,3-beta-galactosyl-N-acetylhexosamine phosphorylase (EC 2.4.1.211)	214	738.4859813084112	79.69912633182203	10.792232804557136	751.0
+Putative transcriptional regulator of galactose utilization (DeoR family)	263	257.6045627376426	17.875879039218496	6.9392711251874015	267.0
+Type I chain HMO ABC transporter permease component 1 (TC 3.A.1.1)	86	313.74418604651163	15.669690819668117	4.994416316401519	323.0
+Type I chain HMO ABC transporter permease component 2 (TC 3.A.1.1)	86	316.7674418604651	2.28582293259516	0.7216091777519409	316.0
+Putative HMO ABC transporter permease component 1 (TC 3.A.1.1)	30	315.6666666666667	4.4820630170590965	1.419872127896229	317.0
+Putative beta-glucoside PTS system IIB component (TC 4.A.3)	22	92.0	7.0	7.608695652173914	92.0
+Beta-1,4-xylosidase-1 (GH43_11)	26	543.4615384615385	2.3076923076923075	0.42462845010615713	543.0
+Putative xylose ABC transporter substrate-binding component (TC 3.A.1.2)	13	370.61538461538464	1.2733034890189885	0.3435646607979836	370.0
+Putative xylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	1	304.0	0.0	0.0	304.0
+Putative maltose ABC transporter substrate-binding component (TC 3.A.1.1)	42	433.6904761904762	70.54127062704502	16.265349252461657	455.0
+Beta-1,4-galactosidase (GH2)	334	998.5119760479042	147.07008240295306	14.728925233831877	1023.0
+Raffinose family oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	241	309.82572614107886	17.09197483399245	5.516641580050597	309.0
+Beta-1,4-galactosidase-2 (GH2)	32	1249.59375	66.7658498855328	5.343004467294494	1292.0
+1,4-alpha-glucan (glycogen) branching enzyme (GH13_9)	264	744.7840909090909	38.98526786540257	5.234438858356489	750.0
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization-2 (LacI family)	4	318.5	32.53075467922624	10.21373773288108	317.5
+Putative extracellular alpha-amylase (GH13_32)	27	518.8148148148148	38.370549120132765	7.395808296998749	545.0
+Beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	150	443.3933333333333	33.4165421444064	7.53654591357705	449.0
+XOS/AXOS ABC transporter-2 permease component 2 (TC 3.A.1.5)	26	304.53846153846155	14.358676736842295	4.714897640286684	309.0
+Glucose MFS permease (TC 2.A.1.1.42)	153	512.1764705882352	10.305222768160935	2.0120453320171805	516.0
+Putative transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	22	347.45454545454544	11.547243955819356	3.323382614181395	348.0
+6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	320	450.775	75.48956467618554	16.74661742026189	484.0
+Putative anaerobic N-acetylglucosamine-6-sulfatase maturing enzyme	18	447.0	0.0	0.0	447.0
+Extracellular amylopullulanase (GH13_14_32)	88	1710.840909090909	137.82926579019588	8.056229252983806	1740.0
+Putative transcriptional regulator of maltooligosaccharide utilization MalR6 (LacI family)	185	341.94054054054055	9.257384472699808	2.707308252500774	344.0
+Extracellular endo-beta-1,4-mannanase (GH5_8)	4	379.5	5.5	1.4492753623188406	379.5
+Gluconokinase (EC 2.7.1.12)	68	180.01470588235293	2.8977305879866804	1.6097188136842928	179.0
+Putative alpha-xylosidase-3 (GH31)	19	681.6842105263158	33.879123569691345	4.969914668191287	690.0
+Putative xyloglucan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	24	289.625	66.90217516394117	23.09958572773109	321.0
+Putative flavonoid/ginsenoside alpha-L-arabinofuranosidase (GH51)	14	517.7142857142857	0.6998542122237651	0.13518155313372948	518.0
+5-deoxy-glucuronate isomerase (EC 5.3.1.30)	7	291.0	0.0	0.0	291.0
+Putative alpha-1,3-fucosylated glycan ABC transporter permease component 2 (TC 3.A.1.1)	2	299.0	0.0	0.0	299.0
+Extracellular exo-beta-1,6-galactobiohydrolase (GH30_5)	122	1487.7377049180327	149.83574631382567	10.071381925625184	1513.0
+Fructose-specific PTS system IIC component (TC 4.A.7)	34	459.2352941176471	0.5969936214760129	0.12999733015360854	459.0
+Putative pentose (arabinose/xylose) ABC transporter ATP-binding component (TC 3.A.1.2)	132	511.1363636363636	41.55970016357133	8.130843962637343	517.0
+XOS/AXOS ABC transporter-1 permease component 2 (TC 3.A.1.1)	140	293.4214285714286	21.853103034692765	7.447684765590659	297.0
+Putative transcriptional regulator of arabinose transporter (ROK family)	132	388.3181818181818	6.554339508385614	1.6878786045239786	389.0
+Putative xyloglucan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	24	371.625	112.08918045467189	30.161905268663812	437.0
+Mannonate dehydratase (EC 4.2.1.8)	17	420.7647058823529	6.890141394986505	1.637528361733127	415.0
+LNnT ABC transporter permease component 2 (TC 3.A.1.1)	1	289.0	0.0	0.0	289.0
+Extracellular beta-L-arabinofuranosidase (GH146)	56	800.0	0.0	0.0	800.0
+Putative transketolase N-terminal subunit (inositol utilization locus)	7	297.0	0.0	0.0	297.0
+Beta-arabinobiose ABC transporter permease component 1 (TC 3.A.1.1)	143	305.5874125874126	18.364350030604264	6.009524369840064	308.0
+Putative transcriptional regulator of lactose utilization (LacI family)	327	334.82874617737	23.60288233227526	7.049240127002722	336.0
+Putative beta-L-arabinopyranosidase (GH36)	14	707.2857142857143	37.825593322565105	5.347993400483856	714.0
+XOS/AXOS ABC transporter-2 ATP-binding component 1 (TC 3.A.1.5)	26	284.1923076923077	2.5422465953324216	0.894551515477642	283.0
+Putative maltose ABC transporter permease component 2 (TC 3.A.1.1)	1	278.0	0.0	0.0	278.0
+Putative fructooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	71	310.80281690140845	4.307280826856368	1.3858564313536146	311.0
+Putative alpha-L-arabinofuranosidase (GH43_22)	37	354.4594594594595	2.343416247237337	0.661123912678471	354.0
+Putative Fuc(a1-6)GlcNAc-peptide MFS permease (TC 2.A.1.68)	33	389.6969696969697	43.68377054466661	11.209676733856906	405.0
+Putative alpha-1,3-fucosylated glycan ABC transporter permease component 1 (TC 3.A.1.1)	2	278.0	0.0	0.0	278.0
+Putative rhamnoglycoside MFS permease (TC 2.A.1.1)	43	414.1162790697674	59.68257480196282	14.412033000979399	432.0
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 2 (TC 3.A.1.1)	11	297.8181818181818	15.07447078412664	5.061635489175612	310.0
+Putative pyruvate phosphate dikinase (inositol utilization locus)	7	888.0	0.0	0.0	888.0
+Putative sucrose MFS permease (TC 2.A.1.2)	272	537.4007352941177	29.446069837435136	5.479350492760193	545.0
+Extracellular alpha-1,2/3-L-arabinofuranosidase (GH43_27)	67	1228.5223880597016	104.08468971516963	8.472347816107646	1246.0
+Beta-1,6-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	156	447.15384615384613	1.330865566395998	0.2976303520238771	447.0
+Putative beta-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	13	350.15384615384613	99.6816827196576	28.46796738478798	416.0
+Putative rhamnoglycoside MFS permease (TC 2.A.1.2)	43	423.1860465116279	56.5431532317856	13.361299054606699	438.0
+Melezitose ABC transporter substrate-binding component (TC 3.A.1.1)	93	423.21505376344084	75.40783015478581	17.81785158259885	441.0
+Alpha-1,5-L-arabinofuranosidase (GH1)	1	423.0	0.0	0.0	423.0
+Putative N-glycan glycoside hydrolase (GH3)	90	755.5888888888888	13.816973816002502	1.8286364475688206	759.0
+N-acetylglucosamine-6-phosphate deacetylase involved in GlcNAc-6S utilization (EC 3.5.1.25)	19	408.5263157894737	6.418463671337325	1.5711261241356502	414.0
+Putative HMO ABC transporter (Blon_2354) substrate-binding component (TC 3.A.1.1)	15	526.0666666666667	17.706746987769627	3.3658751085609477	531.0
+Beta-1,4-xylosidase-1 (GH120)	131	643.3358778625955	98.33581741963675	15.28529976384116	659.0
+Putative inositol MFS permease-1 (TC 2.A.1.1)	7	466.0	0.0	0.0	466.0
+Putative beta-fructofuranosidase-3 (GH32)	20	491.7	1.9	0.38641448037421194	492.5
+Putative beta-1,2-L-arabinofuranosidase (GH127)	4	670.5	0.8660254037844386	0.12916113404689614	671.0
+Putative transcriptional regulator of maltooligosaccharide utilization MalR3 (LacI family)	122	343.12295081967216	23.240572870698283	6.773249301796875	341.0
+Extracellular beta-1,4-galactosidase (GH2)	22	1925.6818181818182	23.7321921058456	1.2324046413988037	1935.0
+L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	221	227.19004524886878	17.640966578050854	7.764850153855361	230.0
+2'FL, 3FL, LDFT, LNFP I ABC transporter substrate-binding component (TC 3.A.1.1)	35	459.2857142857143	10.233199272316492	2.2280682707998585	461.0
+Putative difructose dianhydride ABC transporter permease component 2 (TC 3.A.1.1)	20	275.95	0.21794494717703367	0.0789798685185844	276.0
+Bgl cluster ABC transporter permease component 2 (TC 3.A.1.1)	5	310.0	0.0	0.0	310.0
+Putative beta-galactosidase-2 (GH2)	55	717.4	11.461556296039067	1.5976521182100734	715.0
+Putative transcriptional regulator of fucosylated HMO utilization (LacI family)	29	294.7241379310345	87.69024502493251	29.753329890289493	347.0
+LNnT ABC transporter permease component 1 (TC 3.A.1.1)	5	139.6	60.74076061426956	43.51057350592376	123.0
+Putative transcriptional regulator of rhamnoglycoside utilization (LacI family)	44	350.6363636363636	12.417163541373817	3.5413222441045367	348.0
+Putative transcriptional regulator of alpha-glucoside utilization (LacI family)	156	334.9230769230769	17.87475603618291	5.336973552374318	336.0
+D-ribose pyranase (EC 5.4.99.62)	27	132.25925925925927	4.4521538074708555	3.3662322263151245	131.0
+Cytoplasmic alpha-amylase (GH13_20)	195	423.7435897435897	39.36946490112509	9.29086972736221	431.0
+Putative N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	141	420.02836879432624	45.06448386312446	10.728914333210437	430.0
+Maltose and maltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	258	437.9341085271318	43.0146847038807	9.822181891369112	448.0
+Extracellular RS-degrading alpha-amylase with CBM74 domain (GH13_28)	25	1368.16	221.6881918370936	16.20338204867074	1460.0
+3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.22)	7	626.0	0.0	0.0	626.0
+Putative transcriptional regulator of beta-1,6-linked galactooligosaccharide utilization (LacI family)	206	331.5533980582524	18.205530022623797	5.4909797725629605	336.0
+N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	55	673.1272727272727	73.01109617920592	10.84655148251398	676.0
+Extracellular alpha-1,2-L-fucosidase (GH95)	21	1957.5714285714287	2.7355060221609664	0.13973978074236856	1959.0
+Polyphosphate glucokinase (EC 2.7.1.63)	263	255.13307984790873	2.2423017483172156	0.878875349936554	255.0
+Putative transcriptional regulator of galactooligosaccharide utilization (LacI family)	119	337.38655462184875	0.7897371512249233	0.23407487358530937	337.0
+Putative beta-glucosidase-2 (GH3)	6	662.6666666666666	227.56806063730082	34.34125663540757	797.0
+Putative beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	22	395.6363636363636	74.44127975949503	18.815580821563543	415.0
+Extracellular RS-degrading alpha-amylase-2 (GH13_28)	18	1086.388888888889	256.6000214100816	23.619536616627297	1176.5
+Putative alcohol dehydrogenase (inositol utilization locus)	7	367.0	0.0	0.0	367.0
+N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	281	414.05338078291817	54.99182078581314	13.28133601561981	427.0
+Putative N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	141	318.90070921985813	23.73891827004253	7.443984156735231	323.0
+Putative beta-glucooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	58	290.8965517241379	10.144965891366013	3.487482347672053	292.0
+Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 1 (TC 3.A.1.1)	21	303.0	0.0	0.0	303.0
+1,2-beta-oligoglucan phosphorylase (EC 2.4.1.333)	4	1139.5	22.5	1.9745502413339184	1139.5
+Putative pentose (arabinose/xylose) ABC transporter permease component (TC 3.A.1.2)	132	404.90909090909093	1.328330836018405	0.32805656030988894	405.0
+Anaerobic N-acetylglucosamine-6-sulfatase (EC 3.1.6.14)	18	508.0	0.0	0.0	508.0
+Bgl cluster ABC transporter permease component 1 (TC 3.A.1.1)	5	327.0	0.0	0.0	327.0
+N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	67	222.38805970149255	15.476467667369139	6.959217004790149	222.0
+Putative galactomannan oligosaccharide-acting alpha-1,6-galactosidase (GH36)	14	678.0	130.60846614431787	19.263785567008533	730.0
+Predicted transcriptional regulator of beta-glucoside utilization-4 (TetR family)	55	204.43636363636364	18.443785488356117	9.021773406791056	208.0
+Putative beta-L-arabinofuranosidase in alpha-AOS locus (GH146)	26	846.4615384615385	13.34809340816643	1.5769285196852383	853.0
+Melezitose ABC transporter permease component 2 (TC 3.A.1.1)	93	273.3333333333333	6.18936537357414	2.264401965941759	274.0
+Putative transcriptional regulator of panose/isomaltooligosaccharide utilization-2 (LacI family)	76	335.5263157894737	43.882460734452934	13.07869417968009	337.0
+Putative lacto-N-biosidase (GH136)	1	506.0	0.0	0.0	506.0
+Putative XOS/AXOS acetyl or feruloyl esterase-2 (CE20)	18	612.1111111111111	14.456405304258306	2.3617289478730217	622.0
+N-acetylneuraminate lyase (EC 4.1.3.3)	71	318.98591549295776	10.842655666779773	3.399101697021211	320.0
+Putative transcriptional regulator of diacetylchitobiose utilization (LacI family)	4	360.0	0.0	0.0	360.0
+Putative transketolase C-terminal subunit (inositol utilization locus)	7	322.0	0.0	0.0	322.0
+Fructokinase (EC 2.7.1.4)	335	302.7343283582089	8.629583830417939	2.850546839936509	298.0
+Raffinose family oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	241	427.9004149377593	24.58329983003138	5.745098385475314	429.0
+Alpha-1,6/4/3-galactosidase (GH36)	263	764.1673003802281	36.8359139714395	4.8203991394438095	768.0
+3-keto-L-gulonate-6-phosphate decarboxylase (EC 4.1.1.85)	2	226.0	0.0	0.0	226.0
+Maltose and maltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	267	279.8614232209738	2.1756850565003116	0.7774151333399131	280.0
+Putative alpha-glucosidase (GH31)	188	829.718085106383	112.88386186108981	13.605086340454578	845.0
+Putative glucuronide MFS permease (TC 2.A.2)	8	507.5	24.40286868382486	4.808447031295539	526.0
+Putative transcriptional regulator of sucrose utilization-3 (LacI family)	26	350.88461538461536	5.59069916555732	1.59331555743166	353.0
+Putative beta-fructofuranosidase-1 (GH32)	26	464.53846153846155	0.8426500884694863	0.18139511757084487	465.0
+Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	275	267.8872727272727	14.199040358680513	5.300378854928316	270.0
+2-keto-3-deoxy-L-fuconate aldolase-1 (EC 4.1.2.18)	66	297.25757575757575	1.2469430020339325	0.41948232903939825	297.0
+Alpha-1,6-L-fucosidase (GH29)	33	428.5151515151515	55.45302200258763	12.940737756066698	449.0
+Arabinoxylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	12	298.0	19.0	6.375838926174497	298.0
+Putative N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	1	276.0	0.0	0.0	276.0
+Putative difructose dianhydride ABC transporter permease component 1 (TC 3.A.1.1)	20	288.45	9.356682104250416	3.243779547322037	289.0
+Cellobiose and cellodextrin ABC transporter permease component 2 (TC 3.A.1.1)	10	315.4	0.48989794855663565	0.1553259190097133	315.0
+Putative transcriptional regulator of sucrose utilization (LacI family)	391	343.4859335038363	48.14491319530874	14.016560359311198	359.0
+Putative sucrose MFS permease (TC 2.A.1.5)	234	443.2393162393162	34.26995633532058	7.731704990903234	444.5
+Extracellular beta-N-acetylglucosaminidase (GH84)	22	1138.8636363636363	3.494091825632293	0.30680510941492894	1139.0
+N-glycan beta-mannosidase (GH5_18)	140	425.3285714285714	6.628340513219253	1.5584047154312557	426.0
+Ribose ABC transporter permease component (TC 3.A.1.2)	27	329.0	0.0	0.0	329.0
+Putative transcriptional regulator of complex N-glycan utilization (ROK family)	5	377.6	4.409081537009721	1.1676593053521507	374.0
+Putative Gal(a1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	18	285.3888888888889	6.889112899583653	2.413938722844184	287.0
+Lactose MFS permease (TC 2.A.2)	403	498.6774193548387	37.13893385961164	7.447486575121035	495.0
+Putative alpha-1,5-L-arabinofuranosidase (GH51)	243	498.0329218106996	75.59295742627533	15.178305311914286	515.0
+Putative beta-glucoside PTS system IIC component (TC 4.A.3)	22	446.1818181818182	0.38569460791993493	0.0864433717831965	446.0
+Putative xgl-cluster alpha-1,2-L-arabinofuranosidase (GH43_12)	6	503.0	0.0	0.0	503.0
+Putative alpha-arabinooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	4	459.5	2.5	0.544069640914037	459.5
+L-fuconate dehydratase-2 (EC 4.2.1.68)	59	427.0	0.0	0.0	427.0
+Putative transcriptional regulator of inositol utilization-2 (IclR family)	7	331.0	0.0	0.0	331.0
+Putative alpha-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	118	431.46610169491527	53.965570035069554	12.507487801029612	438.0
+Putative xyloglucan oligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	25	553.2	44.62107125562989	8.065992634784868	542.0
+Putative beta-mannose-oligosaccharide ABC transport system permease component 1 (TC 3.A.1)	12	328.8333333333333	0.5527707983925666	0.1681005975851698	329.0
+Putative xyloglucan oligosaccharide ABC transporter-4 permease component 1 (TC 3.A.1.1)	18	296.6666666666667	34.847285881877994	11.746276139958873	305.0
+Transcriptional regulator of ribose utilization (LacI family)	27	336.14814814814815	11.846873954616493	3.524301418848009	339.0
+4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	247	722.8866396761133	87.91449715124345	12.161588321874813	745.0
+Beta-1,3-linked galactooligosaccharide MFS permease (TC 2.A.2)	9	481.0	0.0	0.0	481.0
+Extracellular alpha-1,5-L-arabinofuranosidase (GH43_22)	81	1164.283950617284	245.40569758887827	21.07782190579611	1097.0
+Putative maltose MFS permease (TC 2.A.1.2)	15	406.1333333333333	29.26173079106718	7.204956695108465	418.0
+2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)	1	211.0	0.0	0.0	211.0
+Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 2 (TC 3.A.1.5)	4	553.5	3.5	0.6323396567299007	553.5
+Putative XOS/AXOS acetyl or feruloyl esterase-1	99	572.1212121212121	118.33749653173946	20.68399038955192	648.0
+Beta-1,2-L-arabinofuranosidase (GH127)	162	646.141975308642	53.65457274403617	8.303836431367431	658.0
+Putative inositol MFS permease-2 (TC 2.A.1.1)	7	477.0	0.0	0.0	477.0
+Putative sucrose ABC transporter substrate-binding component (TC 3.A.1.1)	28	427.92857142857144	0.5933302759227196	0.13865170861155188	428.0
+Fucosylated HMO ABC transporter permease component 1 (TC 3.A.1.1)	39	295.1025641025641	9.108448802031234	3.0865366520046758	291.0
+Putative xyloglucan endo-beta-1,4-glucanase (GH5_4)	6	349.5	30.18691769624716	8.637172445278157	363.0
+Glucose-specific PTS system IIABC components (TC 4.A.1.2.18)	263	724.3802281368821	88.3582832848342	12.19777678251837	697.0
+Putative sucrose ABC transporter permease component 1 (TC 3.A.1.1)	28	294.9642857142857	6.428075377686891	2.179272437041203	292.0
+Extracellular alpha-2,3/6/8-sialidase (GH33)	23	797.2608695652174	123.2216868939189	15.455629593500216	834.0
+Putative transcriptional regulator of Arap(b1-3)Araf utilization (LacI family)	14	341.0	16.962142721787412	4.974235402283698	343.0
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization-2 (LacI family)	4	347.0	0.0	0.0	347.0
+Putative transcriptional regulator of ascorbate utilization (DeoR family)	2	322.0	0.0	0.0	322.0
+XOS/AXOS ABC transporter-2 substrate-binding component (TC 3.A.1.5)	26	556.4615384615385	27.286557368377405	4.903583712868486	563.0
+Alpha-1,6-mannosidase (GH125)	168	425.67857142857144	46.68872626088599	10.96807060411786	432.0
+XOS/AXOS ABC transporter-1 substrate-binding component (TC 3.A.1.1)	143	416.65034965034965	56.71080590919823	13.611126441340943	426.0
+Putative transcriptional regulator of Gal(a1-3)Araf utilization (LacI family)	18	336.8333333333333	0.6871842709362767	0.20401314327647999	337.0
+Putative xyloglucan oligosaccharide ABC transporter-4 permease component 2 (TC 3.A.1.1)	17	271.0	0.0	0.0	271.0
+Putative complex N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	5	279.4	1.9595917942265424	0.701357120338777	281.0
+Putative beta-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	11	289.0	19.936262073281075	6.898360578989991	301.0
+Xylulose kinase (EC 2.7.1.17)	238	497.7310924369748	46.545396197797515	9.35151468434561	506.0
+Beta-L-arabinopyranosidase (GH36)	73	757.2602739726027	139.18914177825096	18.38062111036961	812.0
+Putative beta-glucooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	58	430.5	5.553035827054578	1.2899037925794605	431.0
+Endo-alpha-1,5-L-arabinanase (GH43_4)	84	559.4880952380952	49.54014582894195	8.854548693812635	581.0
+Putative N-glycan alpha-L-fucosidase (GH29)	2	434.0	0.0	0.0	434.0
+Extracellular alpha-1,3-galactosidase (GH110)	24	1186.4583333333333	310.05469667553103	26.132792696093926	1290.5
+Putative galactose MFS permease (TC 2.A.21)	14	583.0	0.0	0.0	583.0
+Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	79	1676.1898734177216	147.89519689476379	8.82329616949708	1664.0
+Putative transcriptional regulator of xylose utilization (ROK family)	247	407.3805668016194	31.27352405088571	7.676734385348053	409.0
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization-3 (LacI family)	18	330.8888888888889	0.4581228472908511	0.13845217010133176	331.0
+Putative transcriptional regulator of alpha-glucoside utilization-2 (LacI family)	21	339.0	0.0	0.0	339.0
+Putative extracellular alpha-amylase with CBM41 domain (GH13_32)	10	1309.9	362.5684625005324	27.679094778267988	1454.0
+Putative beta-1,4-glucosidase-2 (GH1)	8	463.0	0.0	0.0	463.0
+Putative diacetylchitobiose ABC transporter permease component 1 (TC 3.A.1.1)	4	319.25	0.4330127018922193	0.1356343623781423	319.0
+Transcriptional regulator of GlcNAc, LNB/GNB, and HMO utilization (ROK family)	254	369.5511811023622	31.34258471656786	8.481256810781579	374.0
+Putative xgl-cluster beta-1,2-galactosidase (GH42)	28	500.17857142857144	129.24977302313	25.84072577399243	456.0
+Putative xgl-cluster alpha-1,2-L-fucosidase (GH29)	8	495.0	3.4641016151377544	0.6998185081086372	497.0
+Putative transcriptional regulator of D-glucuronate utilization-2 (LacI family)	17	353.11764705882354	31.184238765838817	8.831118757608861	339.0
+D-mannose isomerase (EC 5.3.1.7)	191	412.8219895287958	3.4836549110319996	0.843863698977935	411.0
+Alpha-1,4/6-glucosidase (GH13_30)	114	561.561403508772	88.05829758443414	15.68097398329453	586.0
+Cellobiose and cellodextrin ABC transporter substrate-binding component (TC 3.A.1.1)	12	346.6666666666667	132.39104535008738	38.18972462021751	411.5
+Galactonate dehydratase (EC 4.2.1.6)	1	383.0	0.0	0.0	383.0
+Glycogen phosphorylase (EC 2.4.1.1)	294	758.3537414965987	162.28222677008404	21.399278185114866	815.0
+Extracellular alpha-1,2/5-L-arabinofuranosidase (GH43_UC_26)	65	1991.4153846153847	69.05714296206324	3.4677417627463347	2000.0
+Beta-L-arabinopyranosidase-2 (GH36)	11	691.1818181818181	32.621293051174085	4.719639925857096	707.0
+Flavonoid/ginsenoside alpha-L-arabinopyranosidase (GH42)	59	707.9152542372881	2.512936937928899	0.35497708558863467	708.0
+Putative alpha-xylosidase-2 (GH31)	4	760.0	0.0	0.0	760.0
+Mannitol 2-dehydrogenase (EC 1.1.1.67)	80	331.3	16.850370915798855	5.086136708662497	334.0
+Beta-mannose-oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	21	351.2857142857143	3.282607226593159	0.9344550868707651	349.0
+Galactose-1-phosphate uridylyltransferase (EC 2.7.7.12)	266	411.7857142857143	36.51679939457496	8.867913122706844	416.0
+Putative extracellular xyloglucan endo-beta-1,4-glucanase (GH5_4)	6	815.5	3.3541019662496847	0.4112939259656266	814.0
+Beta-glucosidase-1 (GH3)	230	570.9304347826087	199.54555856567998	34.950940851780004	748.0
+Putative transcriptional regulator of XOS/AXOS utilization-2 (LacI family)	3	351.3333333333333	6.128258770283412	1.7442861775000225	347.0
+Extracellular alpha-2,3/6/8-sialidase with acetylesterase (GH33)	22	1709.2727272727273	293.61619688699085	17.17784366427454	1795.0
+Putative glycogen debranching enzyme (GH13_11)	263	708.3269961977186	11.40440151287676	1.6100475591210412	706.0
+Arabinoxylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	13	399.9230769230769	98.04352372481672	24.515595468794334	435.0
+Transcriptional regulator of melezitose utilization-1 (LacI family)	91	308.34065934065933	17.204152182322808	5.579592460855254	310.0
+D-mannonate oxidoreductase (EC 1.1.1.57)	17	464.0	0.0	0.0	464.0
+Putative glucuronide ABC transporter substrate-binding component (TC 3.A.1.1)	12	411.3333333333333	87.05585690935574	21.164308811026515	447.0
+LNFP II, LNDFH I, LNDFH II ABC transporter substrate-binding component (TC 3.A.1.1)	9	456.0	19.79898987322333	4.341883744127924	463.0
+Beta-1,3/4/6-galactosidase (GH42)	253	689.3478260869565	50.04777919932095	7.2601634915445095	691.0
+N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	55	516.8181818181819	16.532162492977584	3.1988353108663747	520.0
+Putative beta-glucooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	9	292.0	0.0	0.0	292.0
+2'FL, 3FL ABC transporter substrate-binding component (TC 3.A.1.1)	7	462.0	0.0	0.0	462.0
+Putative transcriptional regulator of sorbitol utilization (AraC family)	103	305.75728155339806	36.43519743362898	11.91637930862028	315.0
+Endo-beta-N-acetylglucosaminidase-2 (GH18)	25	557.84	9.747533021231577	1.7473707552759887	555.0
+Fructose/xylose/ribose/arabinose ABC transporter substrate-binding component (TC 3.A.1.2.23)	138	325.0217391304348	19.76252763248418	6.0803710192915	327.0
+Putative arabinose MFS permease (TC 2.A.1.1)	4	482.0	42.930175867331364	8.906675491147586	491.0
+Putative transcriptional antiterminator of glucose-specific PTS system (BglG family)	252	283.1468253968254	22.810778524768104	8.056166087258505	286.0
+Extracellular lacto-N-biosidase (GH136)	87	1535.7586206896551	351.49741960489854	22.887543320255197	1605.0
+Beta-galactosidase small subunit (EC 3.2.1.23)	2	314.0	0.0	0.0	314.0
+Cellobiose phosphorylase (EC 2.4.1.20)	34	721.9117647058823	206.50742297540938	28.60563202755722	833.0
+N-acetylhexosamine 1-kinase (EC 2.7.1.162)	193	356.95854922279796	21.492698892118373	6.021062932632989	359.0
+Putative N-acetylglucosamine kinase (EC 2.7.1.59)	226	304.70353982300884	14.41839059914986	4.731940629086546	304.0
+Alpha-mannosidase (GH38)	26	928.4615384615385	233.74924611465937	25.17597514076696	1007.5
+UDP-hexose 4-epimerase (EC 5.1.3.2)	194	339.9845360824742	0.12338875467614252	0.036292460856575726	340.0
+Extracellular alpha-1,3-L-arabinofuranosidase (GH43_22)	124	1024.274193548387	153.87140308993668	15.022481681089793	1065.0
+Putative alpha-glucosidase-3 (GH31)	21	806.9047619047619	9.370189619999119	1.161251000412992	809.0
+Putative aldehyde dehydrogenase (inositol utilization locus)	7	487.0	0.0	0.0	487.0
+Putative alpha-1,3-fucosylated glycan ABC transporter substrate-binding component (TC 3.A.1.1)	2	436.0	0.0	0.0	436.0
+Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 1 (TC 3.A.1.5)	4	553.5	3.5	0.6323396567299007	553.5
+Glucosamine-6-phosphate deaminase involved in GlcNAc-6S utilization (EC 3.5.99.6)	19	270.0	0.0	0.0	270.0
+Putative XOS/AXOS acetyl or feruloyl esterase-1 (CE20)	69	621.3333333333334	107.40451325991397	17.286134108355252	648.0
+Alpha-1,2-L-fucosidase (GH95)	69	770.2898550724638	72.23895561727515	9.378152281452467	783.0
+Putative flavonoid/ginsenoside beta-xylosidase (GH43_11)	43	544.9302325581396	16.42798993895141	3.014696002794941	548.0
+Putative decarboxylating dehydrogenase (inositol utilization locus)	7	352.0	0.0	0.0	352.0
+Putative glucomannan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	8	339.0	0.0	0.0	339.0
+Beta-arabinobiose ABC transporter substrate-binding component (TC 3.A.1.1)	143	435.6013986013986	40.524902101690586	9.303207526836548	441.0
+Putative xylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	1	276.0	0.0	0.0	276.0
+Beta-glucosidase-3 (GH3)	254	835.9055118110236	194.75762983531288	23.299000554902726	833.0
+Putative beta-glucuronidase (GH154)	8	628.0	0.0	0.0	628.0
+Putative D-galactonate ABC transporter permease component 1 (TC 3.A.1.1)	1	296.0	0.0	0.0	296.0
+Putative transcriptional regulator of caramelized fructose utilization-2 (LacI family)	3	319.0	0.0	0.0	319.0
+Putative D-galactonate ABC transporter permease component 2 (TC 3.A.1.1)	1	267.0	0.0	0.0	267.0
+Putative transcriptional regulator of beta-1,2-oligoglucan utilization (LacI family)	4	374.0	4.636809247747852	1.239788568916538	376.5
+Beta-1,4-galactosidase-2 (GH42)	19	703.1578947368421	3.688719045881101	0.5245932774830907	706.0
+Beta-glucosidase-1 (GH1)	6	466.0	0.0	0.0	466.0
+Putative transcriptional regulator of inositol utilization (AraC family)	7	346.0	0.0	0.0	346.0
+Putative alpha-xylosidase (GH31)	141	619.2482269503546	112.4294045501202	18.155789497179086	608.0
+Putative extracellular beta-N-acetylgalactosaminidase (GH123)	20	1712.35	274.1686114419373	16.011248368729365	1815.0
+Putative transcriptional regulator of sucrose utilization-2 (LacI family)	261	345.0498084291188	8.443263993258313	2.446969622066246	346.0
+Alpha-1,2/3/6-mannosidase-3 (GH38)	23	943.2608695652174	250.65171009422	26.57289390259073	1034.0
+Putative complex N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	5	427.2	1.469693845669907	0.3440294582560644	426.0
+Predicted alpha-glucoside ABC transporter-2 permease component 1 (TC 3.A.1.1)	21	280.95238095238096	6.358168278276008	2.2630768448101044	283.0
+N-acetylglucosamine-6-sulfate MFS permease (TC 2.A.1.1)	18	475.0	0.0	0.0	475.0
+Alpha-1,2/3/5-L-arabinofuranosidase (GH51)	111	804.5765765765766	16.84992022840451	2.094259355660076	803.0
+Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 1 (TC 3.A.1.1.48)	211	317.74407582938386	11.952548379801735	3.7616903945739613	323.0
+Putative maltose and maltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	87	303.5977011494253	5.608818528888119	1.8474509219447484	302.0
+L-fuconate dehydratase-1 (EC 4.2.1.68)	70	341.4714285714286	115.66388761389263	33.87220069854195	425.0
+Fructose-specific PTS system IIB component (TC 4.A.7)	34	94.82352941176471	6.026756947808537	6.355761049177737	98.0
+Glucokinase (EC 2.7.1.2)	194	314.33505154639175	16.71366217643095	5.3171487221062375	316.0
+Putative transcriptional regulator of D-glucuronate utilization-1 (LacI family)	17	322.11764705882354	56.56218062289155	17.559479010028422	337.0
+Putative transcriptional regulator of fructooligosaccharide utilization-2 (LacI family)	5	356.0	0.0	0.0	356.0
+Putative 2-dehydro-3-deoxy-6-phosphogluconate dehydrogenase (EC 1.1.1.-)	17	580.2352941176471	94.50523135956686	16.287397943153252	669.0
+Putative alpha-glucosidase-2 (GH31)	24	851.5833333333334	9.878076173470667	1.1599658878720813	857.0
+Putative pentose (arabinose/xylose) ABC transporter substrate-binding component (TC 3.A.1.2)	132	384.7651515151515	8.197246256467132	2.130454440634116	385.0
+Putative beta-arabinobiose MFS permease (TC 2.A.2)	4	481.0	0.0	0.0	481.0
+Putative beta-glucoside PTS system IIA component (TC 4.A.3)	22	109.0	0.0	0.0	109.0
+Putative extracellular alpha-L-arabinofuranosidase (GH43_27)	4	1225.0	6.164414002968976	0.5032174696301205	1226.0
+Fructose-specific PTS system IIABC components (TC 4.A.1.2.18)	138	675.6231884057971	93.92389787872212	13.90181679529758	696.0
+Beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	137	292.5109489051095	57.23547427215025	19.566951078715835	315.0
+Putative diacetylchitobiose ABC transporter substrate-binding component (TC 3.A.1.1)	4	439.0	0.0	0.0	439.0
+Putative transcriptional regulator of xyloglucan oligosaccharide utilization (TetR family)	31	265.258064516129	6.122237319990893	2.3080306082903768	267.0
+Putative xyloglucan oligosaccharide ABC transporter-3 permease component 1 (TC 3.A.1.1)	5	326.6	2.8000000000000003	0.8573178199632578	328.0
+Putative mannitol MFS permease (TC 2.A.1.18)	82	427.719512195122	73.99872681670783	17.30076012593745	445.0
+Alpha-1,6-glucosidase (GH13_31)	275	579.2654545454545	91.31622621554142	15.764141551854946	606.0
+Difructose dianhydride I synthase/hydrolase (GH172)	20	440.2	51.44958697599039	11.68777532394148	452.5
+Extracellular alpha-1,3-L-arabinofuranosidase (GH43_29)	138	1197.7826086956522	121.34098194938545	10.130467838527226	1238.0
+Putative xyloglucan oligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	8	340.75	19.22725929507375	5.642629286888848	344.0
+Mannose-6-phosphate isomerase (EC 5.3.1.8)	13	459.53846153846155	22.1728017195544	4.82501543947451	456.0
+Beta-1,3/4-N-acetylglucosaminidase (GH20)	18	586.5555555555555	138.48273948692113	23.609483905707336	661.0
+Beta-1,4-xylosidase-3 (GH43_11)	139	540.9784172661871	2.154024594888678	0.39817200208724696	541.0
+Putative glucomannan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	8	314.0	0.0	0.0	314.0
+Predicted alpha-glucoside ABC transporter permease component 1 (TC 3.A.1.1)	38	295.39473684210526	5.294184861883892	1.7922407550252821	295.0
+Myo-inositol 2-dehydrogenase-2 (EC 1.1.1.18)	7	335.0	0.0	0.0	335.0
+Maltose and maltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	267	283.39325842696627	7.416377227488265	2.616991409271492	284.0
+Putative difructose dianhydride ABC transporter-2 substrate-binding component (TC 3.A.1.1)	3	422.3333333333333	0.9428090415820634	0.22323813139275375	423.0
+Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 1 (TC 3.A.1.1)	11	302.54545454545456	4.163993632945014	1.3763200108892775	303.0
+Flavonoid/ginsenoside beta-xylosidase (GH30_2)	43	452.27906976744185	15.367325017856388	3.397752857711974	448.0
+Putative N-glycan beta-mannosidase (GH2)	2	924.0	0.0	0.0	924.0
+Putative N-acetylglucosamine kinase involved in GlcNAc-6S utilization (EC 2.7.1.59)	19	312.7368421052632	47.785531949659315	15.279789751658143	324.0
+Predicted transcriptional regulator of beta-glucoside utilization-6 (TetR family)	13	212.53846153846155	35.707390712278176	16.80043717913921	236.0
+Putative ngl-cluster alpha-mannosidase (GH38)	3	1037.0	0.0	0.0	1037.0
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization (LacI family)	147	339.578231292517	2.474152559014759	0.7285957493793213	340.0
+Beta-glucosidase-2 (GH1)	58	393.63793103448273	2.4753841628855198	0.6288479762049851	396.0
+UDP-glucose 4-epimerase (EC 5.1.3.2)	237	335.2025316455696	17.798482664315863	5.309769761266391	337.0
+Putative D-glucuronate MFS permease (TC 2.A.2)	9	475.77777777777777	18.097131619113185	3.803694174965406	486.0
+Putative beta-glucooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	58	297.94827586206895	20.706839128232993	6.9498100193131975	305.0
+Putative beta-glucosidase-1 (GH3)	4	725.5	2.5	0.34458993797381116	725.5
+Putative sulfite/sulfate exporter	44	266.59090909090907	0.4916660830178166	0.1844271752155493	267.0
+Extracellular 3-O-beta-L-arabinopyranosyl-alpha-L-arabinofuranosidase (GH39)	12	946.3333333333334	98.39320211387685	10.397309134964091	976.0
+Putative XglOS-acting beta-L-arabinopyranosidase (GH36)	4	739.0	0.0	0.0	739.0
+Putative transcriptional regulator of N-acetylneuraminate utilization (RpiR family)	1	284.0	0.0	0.0	284.0
+Putative 2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	17	435.7647058823529	247.7378902867646	56.85129771699512	669.0
+Alpha-1,6-glucosidase-2 (GH13_31)	75	583.04	78.31499473280964	13.432182137213507	604.0
+Putative maltose and maltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	89	448.85393258426967	53.563686877870076	11.933433794258628	467.0
+Putative beta-galactosidase (GH42)	6	703.0	24.399453545793467	3.4707615285623707	704.0
+Putative D-gluconate MFS permease (TC 2.A.8)	56	445.42857142857144	9.89743318610787	2.2220023188824594	442.0
+Putative maltose ABC transporter permease component 1 (TC 3.A.1.1)	1	284.0	0.0	0.0	284.0
+Putative N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	1	299.0	0.0	0.0	299.0
+Putative L-ascorbate-6-phosphate lactonase (EC 3.1.1.-)	2	329.0	0.0	0.0	329.0
+Myo-inositol 2-dehydrogenase-1 (EC 1.1.1.18)	7	343.0	0.0	0.0	343.0
+Putative HMO ABC transporter (Blon_2344) substrate-binding component (TC 3.A.1.1)	14	458.2857142857143	114.48981774527785	24.98219215140103	525.0
+Putative beta-galactosidase (GH59)	11	919.0	12.067989212638683	1.31316531149496	913.0
+XOS/AXOS ABC transporter-2 ATP-binding component 2 (TC 3.A.1.5)	26	272.6923076923077	0.7216024245882199	0.26462148151331055	273.0
+Putative beta-1,2-oligoglucan ABC transporter permease component 1 (TC 3.A.1.5)	4	326.0	0.0	0.0	326.0
+Putative fructooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	3	441.0	0.0	0.0	441.0
+Predicted transcriptional regulator of beta-glucoside utilization (TetR family)	118	193.58474576271186	1.8288009927153426	0.9447030474999362	193.5
+Putative transcriptional regulator of beta-L-arabinopyranosidase (LacI family)	169	384.18934911242604	14.962663756060852	3.894606602350733	385.0
+Putative xyloglucan oligosaccharide ABC transporter-3 substrate-binding component (TC 3.A.1.1)	5	424.0	54.0	12.735849056603774	451.0
+Transcriptional regulator of N-acetylglucosamine-6-sulfate utilization (LacI family)	18	385.44444444444446	6.824972301304984	1.7706760078335215	380.0
+Predicted transcriptional regulator of beta-glucoside utilization-2 (TetR family)	180	217.17222222222222	27.03122280202728	12.446906204407435	211.0
+Putative Arap(b1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	15	386.93333333333334	123.93840764221919	32.030946151503926	451.0
+Putative complex N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	5	323.0	2.449489742783178	0.7583559575180118	325.0
+Alpha-1,3/4-L-fucosidase (GH29)	30	478.1	1.5779733838059502	0.33005090646432755	478.0
+Putative Arap(b1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	13	311.0769230769231	6.661733875264912	2.141506933195941	313.0
+Putative N-acetylglucosamine-specific PTS system-2 IIC component (TC 4.A.1)	40	512.075	0.46837484987987993	0.09146606451786943	512.0
+Extracellular exo-beta-1,3-galactanase (GH43_24)	121	1264.702479338843	93.55810009307815	7.397637121893534	1278.0
+Alpha-1,5-L-arabinofuranosidase (GH43_26)	114	341.29824561403507	3.249641881919664	0.952141396470756	340.0
+Extracellular endo-beta-1,4-xylanase (GH10)	9	853.5555555555555	25.86765939293959	3.030577122317838	863.0
+Alpha-2,3/6-sialidase (GH33)	53	759.2452830188679	16.553977644762497	2.180320117227665	763.0
+Putative HMO ABC transporter (Blon_2350) substrate-binding component (TC 3.A.1.1)	15	523.6666666666666	13.592481581946528	2.595636202790553	529.0
+Transcriptional regulator of maltooligosaccharide utilization MalR1 (LacI family)	252	333.07142857142856	24.573562568831225	7.377865665100518	338.0
+L-fuco-beta-pyranose dehydrogenase-2 (EC 1.1.1.122)	59	262.4237288135593	4.388750603379202	1.6723909164850024	263.0
+Transcriptional regulator of cellobiose and cellodextrin utilization (LacI family)	10	336.8	2.9257477676655586	0.868689954770059	337.0
+Bgl cluster ABC transporter substrate-binding component (TC 3.A.1.1)	5	537.4	4.409081537009721	0.8204468807238037	541.0
+Type II chain HMO ABC transporter (Blon_2347) substrate-binding component (TC 3.A.1.1)	19	516.7894736842105	40.86251524752937	7.906994497434139	531.0
+Beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	114	318.7368421052632	36.37934941298306	11.413600377256904	330.0
+Ribose ABC transporter substrate-binding component (TC 3.A.1.2)	27	314.6666666666667	0.4714045207910317	0.14981075872596344	315.0
+Putative transcriptional regulator of fructose-specific PTS system (GntR family)	30	243.0	17.500476183997584	7.201842051027812	246.0
+Putative xylose ABC transporter ATP-binding component (TC 3.A.1.2)	12	522.1666666666666	0.7993052538854533	0.1530747374182164	522.0
+Putative transcriptional regulator of D-galactonate utilization (IclR family)	1	255.0	0.0	0.0	255.0
+Fucose MFS permease (TC 2.A.1.7)	58	414.6551724137931	41.15971906179798	9.926252414071863	420.0
+Putative xgl-cluster beta-1,4-glucosidase (GH3)	25	549.88	109.15541947150402	19.85077098121481	475.0
+L-arabinose isomerase (EC 5.3.1.4)	196	504.7959183673469	0.5142695170756797	0.10187671856360744	505.0
+Putative Arap(b1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	14	285.92857142857144	18.057306735241895	6.31532086668465	293.0
+Putative ascorbate MFS permease (TC 2.A.1)	2	457.0	0.0	0.0	457.0
+Extracellular RS-degrading alpha-amylase-1 (GH13_28)	29	1036.655172413793	263.2370474741375	25.392922784652193	1010.0
+Putative beta-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	11	281.8181818181818	0.38569460791993504	0.13685937700384793	282.0
+Alpha-1,2/3/5-L-arabinofuranosidase (GH43_22)	32	346.03125	3.5398126274564308	1.0229748404100585	345.0
+Putative beta-mannose-oligosaccharide ABC transport system substrate-binding component (TC 3.A.1)	12	571.6666666666666	26.354421935522616	4.610102962482091	572.0
+Putative N-acetylglucosamine-specific PTS system-2 IIA component (TC 4.A.1)	40	170.025	0.15612494995995996	0.09182470222611966	170.0
+Beta-mannose-oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	22	458.54545454545456	2.038878317455073	0.444640394369663	458.0
+Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (EC 2.4.99.16)	265	742.4679245283019	52.87157731849172	7.121058778678098	746.0
+Putative transcriptional regulator of N-glycan utilization (LacI family)	136	367.30882352941177	7.003690944866933	1.906758154505951	369.0
+Sucrose phosphorylase (EC 2.4.1.7)	238	506.83613445378154	2.02360984931837	0.39926313689122	508.0
+Lacto-N-biose/galacto-N-biose ABC transporter-2 substrate-binding component (TC 3.A.1.1)	11	445.1818181818182	0.5749595745760688	0.12915162998441407	445.0
+Transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	255	356.6588235294118	11.705758202120236	3.282060453820491	351.0
+L-fuco-beta-pyranose dehydrogenase-1 (EC 1.1.1.122)	59	258.08474576271186	27.927441177058725	10.821035196995238	263.0
+Putative beta-galactosidase (GH2)	18	759.3888888888889	155.1530208424677	20.431299840254727	805.0
+XOS/AXOS ABC transporter-2 permease component 1 (TC 3.A.1.5)	26	326.11538461538464	15.884987889094734	4.8709716371796565	330.0
+Putative beta-1,2-oligoglucan ABC transporter substrate-binding component (TC 3.A.1.5)	4	550.5	0.5	0.09082652134423251	550.5
+N-acetylneuraminate ABC transporter ATP-binding component (TC 3.A.1)	108	479.2037037037037	204.330694167262	42.6396316614451	313.5
+Putative xgl-cluster xyloglucan acetylesterase	6	224.0	0.0	0.0	224.0
+Fructose-specific PTS system IIA component (TC 4.A.7)	34	125.5	31.507468769091783	25.105552804057197	144.0
+Putative extracellular alpha-amylase (GH13_5)	7	493.2857142857143	5.256676997992599	1.0656454962626178	490.0
+Putative transcriptional regulator of gluconate utilization (GntR family)	67	244.43283582089552	8.654606021706341	3.5406887919296874	244.0
+L-fucose mutarotase-2 (EC 5.1.3.29)	11	148.0	0.0	0.0	148.0
+Putative XglOS-acting alpha-L-arabinofuranosidase (GH51)	5	415.6	184.201628657295	44.32185482610563	519.0
+Alpha-1,2/3-L-arabinofuranosidase (GH43_27)	116	695.5344827586207	60.90699963093573	8.756862692036073	706.0
+Putative transcriptional regulator of beta-glucooligosaccharide utilization (LacI family)	58	366.36206896551727	15.992129827169265	4.365116146528389	373.0
+Phosphoglucomutase (EC 5.4.2.2)	263	557.3384030418251	4.445223064831777	0.7975806153982516	558.0
+Extracellular lacto-N-biosidase (GH20)	22	1108.6363636363637	12.896600871919187	1.1632850314974255	1112.0
+Putative transcriptional regulator of XOS/AXOS utilization (LacI family)	138	342.3550724637681	3.9135600839875817	1.1431289905604536	342.0
+Putative galactose MFS permease (TC 2.A.2)	403	498.6774193548387	37.13893385961164	7.447486575121035	495.0
+Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	141	703.2340425531914	20.988560983745455	2.9845769279802625	711.0
+Extracellular beta-1,3-N-acetylglucosaminidase (GH20)	22	1623.1818181818182	8.099586766318634	0.49899442413612416	1627.0
+Transcriptional regulator of raffinose family oligosaccharide utilization (ROK family)	240	401.2875	6.211938271049811	1.5480019365292492	402.0
+Broad specificity beta-glucosidase (GH1)	39	456.4102564102564	7.950868195515439	1.7420441551972028	460.0
+Putative transcriptional regulator of the gus locus (LacI family)	11	375.8181818181818	20.225178645432763	5.381639213830682	365.0
+Extracellular alpha-1,3/4-L-fucosidase (GH29)	22	1488.909090909091	7.108951405280853	0.477460406997737	1487.0
+Putative fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	86	425.9651162790698	153.0265555062348	35.92466839608057	535.0
+Sorbitol dehydrogenase (EC 1.1.1.14)	103	346.0	0.0	0.0	346.0
+Putative xgl-cluster beta-glucoside kinase (EC 2.7.1.85)	31	310.06451612903226	9.685158196023334	3.1235945076646208	303.0
+Putative N-acetylglucosamine-specific PTS system-2 IIB component (TC 4.A.1)	40	512.075	0.46837484987987993	0.09146606451786943	512.0
+Extracellular 3-O-alpha-D-galactosyl-alpha-L-arabinofuranosidase (GH39)	18	1043.5	153.12132081747757	14.673820873740064	1095.0
+Endo-beta-N-acetylglucosaminidase (GH85)	21	927.1428571428571	0.6388765649999398	0.06890810408319845	927.0
+Beta-glucosidase-2 (GH3)	226	765.70796460177	101.36700004255361	13.23833690240804	787.0
+Putative transcriptional regulator of fructooligosaccharide utilization (LacI family)	71	359.92957746478874	12.631643636052457	3.509476416199274	363.0
+Putative xyloglucan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	22	287.5	7.626210783153774	2.6525950550100084	286.0
+Putative extracellular lacto-N-biosidase (GH136)	7	997.0	16.09791468305312	1.614635374428598	990.0
+Extracellular double substituted arabinoxylan alpha-L-arabinofuranosidase (GH43_10)	110	908.2272727272727	25.735952599395787	2.833646750346366	901.0
+Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	88	698.7954545454545	46.25083760688927	6.618651753677198	673.0
+Flavonoid/ginsenoside alpha-rhamnosidase (GH78)	43	889.6511627906976	8.490442563670493	0.9543563723378152	890.0
+Putative beta-glucosidase-1 (GH1)	9	388.0	0.0	0.0	388.0
+Putative difructose dianhydride ABC transporter-2 permease component 1 (TC 3.A.1.1)	3	297.0	0.0	0.0	297.0
+Putative glucomannan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	8	435.0	0.0	0.0	435.0
+Predicted transcriptional regulator of beta-mannose-oligosaccharide utilization (LacI family)	61	342.57377049180326	8.175250567962143	2.386420465357184	344.0
+Putative panose/isomaltooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	77	424.75324675324674	35.62399448356524	8.386985798430025	443.0
+Lactaldehyde reductase (EC 1.1.1.77)	260	380.58846153846156	22.659601919971973	5.9538331320856495	383.0
+Putative maltose and maltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	91	391.7802197802198	72.2165245766488	18.432917470198138	413.0
+Beta-2,1/6-fructofuranosidase-2 (GH32)	240	518.7	10.712998335355673	2.0653553760084193	518.0
+Putative xyloglucan oligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	8	309.0	1.7320508075688772	0.5605342419316756	310.0
+Ribulokinase (EC 2.7.1.16)	198	540.7727272727273	37.752702273156814	6.981251155832982	548.0
+Beta-1,4-galactosidase (GH42)	247	713.663967611336	26.98455918595836	3.7811295526488244	710.0
+Putative difructose dianhydride ABC transporter-2 permease component 2 (TC 3.A.1.1)	3	284.0	0.0	0.0	284.0
+Putative flavonoid/ginsenoside glycoside hydrolase (GH5_44)	284	393.38028169014086	61.97775979962333	15.755177034633927	401.0
+Putative transcriptional regulator of mannitol utilization (ROK family)	262	386.57251908396944	20.205822807636547	5.226916505993934	382.0
+Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	21	291.3809523809524	2.170718346674568	0.7449760627580638	291.0
+Putative alpha-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	113	304.5486725663717	5.480441734089673	1.7995290171213258	307.0
+Putative beta-glucanase (GH30_3)	5	443.0	0.0	0.0	443.0
+Putative alpha-arabinooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	4	306.0	1.0	0.32679738562091504	306.0
+Putative transcriptional antiterminator of fructose-specific PTS system (BglG family)	127	281.6456692913386	31.938061996301656	11.339802268809054	288.0
+L-xylulose-5-phosphate 3-epimerase (EC 5.1.3.22)	27	278.25925925925924	41.543901448942556	14.929925983248356	296.0
+Putative transcriptional regulator of L-xylulose utilization (SorC family)	19	320.0	5.830951894845301	1.8221724671391566	322.0
+Extracellular endo-alpha-N-acetylgalactosaminidase (GH101)	141	1901.3829787234042	268.7836710775707	14.136219482622753	1966.0
+Extracellular endo-beta-1,4/3-galactanase (GH53)	87	855.9540229885057	138.4643120165134	16.176606254279243	897.0
+Beta-1,4-xylosidase-2 (GH43_11)	12	542.8333333333334	0.372677996249965	0.06865422098556309	543.0
+Putative N-acetylglucosamine-specific PTS system IIC component (TC 4.A.1)	31	513.0	5.370168496185139	1.046816470991255	516.0
+Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 1 (TC 3.A.1)	12	303.9166666666667	3.593010189551683	1.1822353242286863	305.0
+Putative D-galactonate ABC transporter substrate-binding component (TC 3.A.1.1)	1	430.0	0.0	0.0	430.0
+Cellobiose and cellodextrin ABC transporter permease component 1 (TC 3.A.1.1)	10	368.3	15.440531078949324	4.192378788745404	373.0
+Putative alpha-glucosidase (GH13_44)	27	591.2222222222222	49.16136192349475	8.315208744812118	625.0
+Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	21	319.23809523809524	1.540091583694879	0.48242725622900445	319.0
+Extracellular alpha-N-acetylglucosaminidase (GH89)	22	1925.7272727272727	9.955271870548234	0.5169616700940876	1923.0
+6-phospho-beta-glucosidase (EC 3.2.1.86)	27	473.1111111111111	8.157402152434512	1.7242043065267876	477.0
+Putative endo-beta-N-acetylglucosaminidase (GH85)	126	758.4603174603175	404.18533880861594	53.29024202110124	1017.0
+Beta-2,1/6-fructofuranosidase (GH32)	71	636.3521126760563	1.2114313679012492	0.19037123375088796	636.0
+Putative difructose dianhydride ABC transporter substrate-binding component (TC 3.A.1.1)	20	438.65	10.006372969263136	2.281174733674487	440.0
+Ribokinase (EC 2.7.1.15)	522	366.08045977011494	110.93243448369041	30.302746711297267	330.0
+Putative xgl-cluster alpha-1,6-xylosidase (GH31)	8	676.0	0.0	0.0	676.0
+Putative beta-galactosidase (GH35)	19	698.8947368421053	139.71809766241606	19.991293437652722	751.0
+Panose/isomaltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	241	309.82572614107886	17.09197483399245	5.516641580050597	309.0
+Putative L-xylulose-specific PTS system IIC component (TC 4.A.5)	19	420.0	0.0	0.0	420.0
+Putative beta-1,4-mannosidase (GH2)	33	900.9090909090909	5.517814874724916	0.6124718831682551	901.0
+Galactokinase (EC 2.7.1.6)	263	416.05703422053233	3.3092476065206142	0.7953831648875661	416.0
+Putative beta-mannose-oligosaccharide ABC transport system permease component 2 (TC 3.A.1)	12	345.75	4.14578098794425	1.1990689769903833	347.0
+Beta-arabinobiose ABC transporter permease component 2 (TC 3.A.1.1)	142	271.6267605633803	4.431972750795843	1.631640690189546	272.0
+Putative transcriptional regulator of beta-1,3-linked galactooligosaccharide utilization (LacI family)	9	369.0	8.48528137423857	2.29953424776113	372.0
+Putative xylose ABC transporter permease component (TC 3.A.1.2)	12	401.1666666666667	15.59825488814552	3.88822307141143	404.0
+Extracellular endo-beta-1,4-mannanase (GH26)	19	601.0	275.7859581937451	45.88784662125542	434.0
+Monosubstituted AXOS alpha-1,2/3-L-arabinofuranosidase (GH43_12)	139	568.1294964028777	59.059515712112535	10.395432042527087	588.0
+L-fucose mutarotase-1 (EC 5.1.3.29)	28	141.35714285714286	20.09835509565448	14.218139026738893	145.0
+Putative transcriptional regulator of beta-glucooligosaccharide utilization (AraC family)	9	292.0	0.0	0.0	292.0
+Galactose MFS permease (TC 2.A.1.1.42)	153	512.1764705882352	10.305222768160935	2.0120453320171805	516.0
+Putative panose/isomaltooligosaccharide ABC transporter-1 substrate-binding component (TC 3.A.1.1)	22	424.27272727272725	71.80034300891847	16.923157769404398	444.0
+Putative transcriptional regulator of glucomannan oligosaccharide utilization (LacI family)	8	346.75	1.299038105676658	0.37463247460033394	346.0
+Alpha-1,3/5-L-arabinofuranosidase (GH51)	140	558.8357142857143	17.05018253538055	3.0510187698317637	566.0
+Putative sorbitol MFS permease (TC 2.A.1.18)	104	422.03846153846155	32.56116229407097	7.715212062752622	422.0
+Putative HMO ABC transporter (Blon_2352) substrate-binding component (TC 3.A.1.1)	6	524.8333333333334	14.825840804337393	2.8248664600198268	532.0
+Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	263	374.89733840304183	1.7659949498936627	0.47106094628900513	375.0
+L-xylulokinase (EC 2.7.1.53)	19	507.0	0.0	0.0	507.0
+Putative glucuronide ABC transporter permease component 1 (TC 3.A.1.1)	11	306.3636363636364	29.63496929235253	9.673135377325751	317.0
+Pullulanase (GH13_14)	85	632.6705882352941	130.55324703514148	20.635264142639095	682.0
+Fructose/xylose/ribose/arabinose ABC transporter permease component 2 (TC 3.A.1.2.23)	137	339.8029197080292	1.7208019521480975	0.5064117617431516	340.0
+Putative beta-glucuronidase (GH30_9)	14	515.8571428571429	1.6413036132965795	0.3181701825831087	515.0
+Putative beta-glucooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	9	458.0	0.0	0.0	458.0
+Putative beta-1,4-xylosidase (GH120)	1	652.0	0.0	0.0	652.0
+Raffinose family oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	240	289.6666666666667	4.89614360718946	1.6902682188225981	288.0
+Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 2 (TC 3.A.1)	12	273.0833333333333	3.593010189551683	1.3157193248282024	272.0
+2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)	1	349.0	0.0	0.0	349.0
+Extracellular beta-L-arabinobiosidase (GH121)	145	1841.0413793103448	291.6883049648544	15.843658281820966	1940.0
+Transcriptional regulator of melezitose utilization-2 (LacI family)	90	356.6111111111111	41.77683952847145	11.714957337786043	342.0
+Extracellular 6-sulfo-beta-N-acetylglucosaminidase (GH20)	22	1055.8181818181818	13.224070215249586	1.2524950264142023	1060.0
+Putative glycogen debranching enzyme-2 (GH13_11)	266	828.0263157894736	76.05955363040641	9.185644487384218	846.0
+Putative transcriptional regulator of beta-arabinooligosaccharide utilization-3 (LacI family)	12	277.4166666666667	95.42314388495534	34.39704796093313	332.5
+Ribose ABC transporter ATP-binding component (TC 3.A.1.2)	27	503.74074074074076	6.796472901126554	1.3492005612118003	506.0
+Putative transcriptional regulator of maltose utilization MalR5 (LacI family)	85	344.1764705882353	10.549799519241763	3.065229735551358	347.0
+Fucosylated HMO ABC transporter permease component 2 (TC 3.A.1.1)	41	322.6829268292683	10.143937332436659	3.1436238142849815	325.0
+Putative beta-1,4-glucosidase (GH1)	5	495.0	0.0	0.0	495.0
+Putative galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	398	458.97236180904525	21.27604498965345	4.635583045958073	463.0
+Putative beta-fructofuranosidase-2 (GH32)	3	632.0	0.0	0.0	632.0
+Type I chain HMO ABC transporter substrate-binding component (TC 3.A.1.1)	100	424.09	60.268249518299434	14.211193265179428	438.0
+Alpha-1,3/4-galactosidase (GH36)	100	613.82	32.843988795516296	5.350752467419813	620.0
+Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 2 (TC 3.A.1.1)	21	285.4761904761905	0.8518354199999199	0.2983910562134832	285.0
+Putative transcriptional regulator of fructose utilization (ROK family)	264	399.9810606060606	26.224186825003567	6.556357139827589	404.0
+Predicted alpha-glucoside ABC transporter-2 permease component 2 (TC 3.A.1.1)	22	264.8636363636364	42.42029472974791	16.015899846481105	278.0
+L-fuconolactone hydrolase-2 (EC 3.1.1.-)	59	255.32203389830508	1.6306458943465347	0.6386624254278116	255.0
+Putative alpha-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	115	312.295652173913	9.22187749727078	2.9529317597208324	315.0
+Predicted alpha-glucoside ABC transporter permease component 2 (TC 3.A.1.1)	155	242.78064516129032	28.639758281495265	11.796557448996216	238.0
+Beta-galactosidase large subunit (EC 3.2.1.23)	2	647.0	0.0	0.0	647.0
+Melezitose ABC transporter permease component 1 (TC 3.A.1.1)	93	303.258064516129	8.367761003451966	2.75928721526445	303.0
+Putative fructooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	71	313.46478873239437	8.142794249813916	2.5976742978827643	308.0
+Putative XOS/AXOS acetyl or feruloyl esterase-2	82	475.4878048780488	128.13543177306286	26.948205707594653	483.0
+4-alpha-glucanotransferase (amylomaltase)-2 (EC 2.4.1.25)	264	719.3068181818181	37.051670908998965	5.151024565936127	721.0
+Putative beta-1,4-mannosidase-2 (GH2)	8	902.0	0.0	0.0	902.0
+Putative fructooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	3	336.3333333333333	4.714045207910317	1.4015991698444947	333.0
+Fructose/xylose/ribose/arabinose ABC transporter permease component 1 (TC 3.A.1.2.23)	138	353.4710144927536	24.666821002940257	6.978456504655191	356.0
+N-glycan alpha-glucosidase (GH31)	21	829.8095238095239	3.62030053499966	0.43628090918738005	829.0

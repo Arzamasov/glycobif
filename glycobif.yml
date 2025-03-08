@@ -1,0 +1,24 @@
+name: glycobif
+
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.9
+  - diamond
+  # Python dependencies
+  - pandas
+  - numpy
+  - tqdm
+  - scikit-learn
+  - scipy
+
+  # R dependencies
+  - r-base=4.2
+  - r-data.table
+  - r-openxlsx
+  - r-caret
+  - r-yaml
+  - r-ranger

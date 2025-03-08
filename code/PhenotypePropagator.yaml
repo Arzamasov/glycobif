@@ -1,0 +1,11 @@
+root_dir: "./"
+
+# Input data
+annotation_dir: "tmp/annotation_filt"
+
+# Sys data
+model_dir: "database/sysdata/MLmodels"
+training_dir: "database/sysdata/train/noGenomeID"
+training_dir_genomeid: "database/sysdata/train/withGenomeID"
+subs_ref: "database/sysdata/SubsystemPhenotypeRef.csv"
+functional_roles: "database/sysdata/train/functional_roles.txt"

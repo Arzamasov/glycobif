@@ -1,0 +1,749 @@
+Subsystem	Phenotype	ShortName
+Glucose utilization in bifidobacteria	Glc	GlcK
+Glucose utilization in bifidobacteria	Glc	PpgK
+Glucose utilization in bifidobacteria	Glc	GlcP
+Glucose utilization in bifidobacteria	Glc	GlcU
+Glucose utilization in bifidobacteria	Glc	PtsG
+Galactose utilization in bifidobacteria	Gal	GalK
+Galactose utilization in bifidobacteria	Gal	GalT
+Galactose utilization in bifidobacteria	Gal	GalE
+Galactose utilization in bifidobacteria	Gal	LnpD
+Galactose utilization in bifidobacteria	Gal	GalP
+Galactose utilization in bifidobacteria	Gal	GalS
+Galactose utilization in bifidobacteria	Gal	SgaT
+Ribose utilization in bifidobacteria	Rib	RbsK
+Ribose utilization in bifidobacteria	Rib	RbsA
+Ribose utilization in bifidobacteria	Rib	RbsB
+Ribose utilization in bifidobacteria	Rib	RbsC
+Ribose utilization in bifidobacteria	Rib	FruE
+Ribose utilization in bifidobacteria	Rib	FruF
+Ribose utilization in bifidobacteria	Rib	FruG
+Ribose utilization in bifidobacteria	Rib	FruK
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagEb
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagEc
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagE2b
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagE2c
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagK
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagA
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc	NagB
+N-acetylglucosamine utilization in bifidobacteria	Chb	NagK
+N-acetylglucosamine utilization in bifidobacteria	Chb	NagA
+N-acetylglucosamine utilization in bifidobacteria	Chb	NagB
+N-acetylglucosamine utilization in bifidobacteria	Chb	Hex1
+N-acetylglucosamine utilization in bifidobacteria	Chb	NahA
+N-acetylglucosamine utilization in bifidobacteria	Chb	ChiX
+N-acetylglucosamine utilization in bifidobacteria	Chb	ChiY
+N-acetylglucosamine utilization in bifidobacteria	Chb	ChiZ
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	NagKs
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	NagAs
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	NagBs
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	AtsA
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	AtsB
+N-acetylglucosamine utilization in bifidobacteria	GlcNAc6S	AtsT
+Fucose utilization in bifidobacteria	Fuc	FumB
+Fucose utilization in bifidobacteria	Fuc	FumC
+Fucose utilization in bifidobacteria	Fuc	FumD
+Fucose utilization in bifidobacteria	Fuc	FumE
+Fucose utilization in bifidobacteria	Fuc	FumF
+Fucose utilization in bifidobacteria	Fuc	FumB2
+Fucose utilization in bifidobacteria	Fuc	FumC2
+Fucose utilization in bifidobacteria	Fuc	FumD2
+Fucose utilization in bifidobacteria	Fuc	FumE2
+Fucose utilization in bifidobacteria	Fuc	FumF2
+Fucose utilization in bifidobacteria	Fuc	FucP
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanA
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanK
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanE
+Sialic acid utilization in bifidobacteria	Neu5Ac	NagA
+Sialic acid utilization in bifidobacteria	Neu5Ac	NagB
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanB
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanC
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanD
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanF
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanB2
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanC2
+Sialic acid utilization in bifidobacteria	Neu5Ac	NanD2
+HMO utilization in bifidobacteria	LNB	GltA
+HMO utilization in bifidobacteria	LNB	GltB
+HMO utilization in bifidobacteria	LNB	GltC
+HMO utilization in bifidobacteria	LNB	GltF
+HMO utilization in bifidobacteria	LNB	GltG
+HMO utilization in bifidobacteria	LNB	GltH
+HMO utilization in bifidobacteria	LNB	Bga42A
+HMO utilization in bifidobacteria	LNB	LnpA
+HMO utilization in bifidobacteria	LNB	LnpB
+HMO utilization in bifidobacteria	LNB	LnpC
+HMO utilization in bifidobacteria	LNB	LnpD
+HMO utilization in bifidobacteria	LNB	NagK
+HMO utilization in bifidobacteria	LNB	NagA
+HMO utilization in bifidobacteria	LNB	NagB
+HMO utilization in bifidobacteria	LNT	LnbB
+HMO utilization in bifidobacteria	LNT	LnbX
+HMO utilization in bifidobacteria	LNT	LnbI
+HMO utilization in bifidobacteria	LNT	LacS
+HMO utilization in bifidobacteria	LNT	GltA
+HMO utilization in bifidobacteria	LNT	GltB
+HMO utilization in bifidobacteria	LNT	GltC
+HMO utilization in bifidobacteria	LNT	GltF
+HMO utilization in bifidobacteria	LNT	GltG
+HMO utilization in bifidobacteria	LNT	GltH
+HMO utilization in bifidobacteria	LNT	GltA_LNT
+HMO utilization in bifidobacteria	LNT	GltB_LNT
+HMO utilization in bifidobacteria	LNT	GltC_LNT
+HMO utilization in bifidobacteria	LNT	LnbC
+HMO utilization in bifidobacteria	LNT	Bga42A
+HMO utilization in bifidobacteria	LNT	Bga2A
+HMO utilization in bifidobacteria	LNT	Hex1
+HMO utilization in bifidobacteria	LNT	NahA
+HMO utilization in bifidobacteria	LNT	Hex2
+HMO utilization in bifidobacteria	LNT	LnpA
+HMO utilization in bifidobacteria	LNT	LnpB
+HMO utilization in bifidobacteria	LNT	LnpC
+HMO utilization in bifidobacteria	LNT	LnpD
+HMO utilization in bifidobacteria	LNT	NagK
+HMO utilization in bifidobacteria	LNT	NagA
+HMO utilization in bifidobacteria	LNT	NagB
+HMO utilization in bifidobacteria	LNnT	BbgIII
+HMO utilization in bifidobacteria	LNnT	BbhI
+HMO utilization in bifidobacteria	LNnT	LacS
+HMO utilization in bifidobacteria	LNnT	HmoA
+HMO utilization in bifidobacteria	LNnT	HmoA2
+HMO utilization in bifidobacteria	LNnT	HmoA3
+HMO utilization in bifidobacteria	LNnT	HmoA4
+HMO utilization in bifidobacteria	LNnT	HmoA5
+HMO utilization in bifidobacteria	LNnT	HmoA6
+HMO utilization in bifidobacteria	LNnT	NahS
+HMO utilization in bifidobacteria	LNnT	Bga2A
+HMO utilization in bifidobacteria	LNnT	Hex1
+HMO utilization in bifidobacteria	LNnT	NahA
+HMO utilization in bifidobacteria	LNnT	Hex2
+HMO utilization in bifidobacteria	LNnT	NagK
+HMO utilization in bifidobacteria	LNnT	NagA
+HMO utilization in bifidobacteria	LNnT	NagB
+HMO utilization in bifidobacteria	2'FL	BbAfcA
+HMO utilization in bifidobacteria	2'FL	LacS
+HMO utilization in bifidobacteria	2'FL	FL1_A
+HMO utilization in bifidobacteria	2'FL	FL2_A
+HMO utilization in bifidobacteria	2'FL	Bga2A
+HMO utilization in bifidobacteria	2'FL	BiAfcA
+HMO utilization in bifidobacteria	3FL	BbAfcB
+HMO utilization in bifidobacteria	3FL	LacS
+HMO utilization in bifidobacteria	3FL	FL1_A
+HMO utilization in bifidobacteria	3FL	FL2_A
+HMO utilization in bifidobacteria	3FL	FL3_A
+HMO utilization in bifidobacteria	3FL	Bga2A
+HMO utilization in bifidobacteria	3FL	BiAfcA
+HMO utilization in bifidobacteria	3FL	BiAfcB
+HMO utilization in bifidobacteria	LDFT	BbAfcA
+HMO utilization in bifidobacteria	LDFT	BbAfcB
+HMO utilization in bifidobacteria	LDFT	LacS
+HMO utilization in bifidobacteria	LDFT	FL2_A
+HMO utilization in bifidobacteria	LDFT	FL2_B
+HMO utilization in bifidobacteria	LDFT	FL2_C
+HMO utilization in bifidobacteria	LDFT	Bga2A
+HMO utilization in bifidobacteria	LDFT	BiAfcA
+HMO utilization in bifidobacteria	LDFT	BiAfcB
+HMO utilization in bifidobacteria	LNFPI	LnbB
+HMO utilization in bifidobacteria	LNFPI	LnbX
+HMO utilization in bifidobacteria	LNFPI	BbAfcA
+HMO utilization in bifidobacteria	LNFPI	LacS
+HMO utilization in bifidobacteria	LNFPI	GltA
+HMO utilization in bifidobacteria	LNFPI	GltB
+HMO utilization in bifidobacteria	LNFPI	GltC
+HMO utilization in bifidobacteria	LNFPI	FL2_A
+HMO utilization in bifidobacteria	LNFPI	FL2_B
+HMO utilization in bifidobacteria	LNFPI	FL2_C
+HMO utilization in bifidobacteria	LNFPI	Bga42A
+HMO utilization in bifidobacteria	LNFPI	Bga2A
+HMO utilization in bifidobacteria	LNFPI	Hex1
+HMO utilization in bifidobacteria	LNFPI	NahA
+HMO utilization in bifidobacteria	LNFPI	Hex2
+HMO utilization in bifidobacteria	LNFPI	BiAfcA
+HMO utilization in bifidobacteria	LNFPI	LnpA
+HMO utilization in bifidobacteria	LNFPI	LnpB
+HMO utilization in bifidobacteria	LNFPI	LnpC
+HMO utilization in bifidobacteria	LNFPI	LnpD
+HMO utilization in bifidobacteria	LNFPI	NagK
+HMO utilization in bifidobacteria	LNFPI	NagA
+HMO utilization in bifidobacteria	LNFPI	NagB
+HMO utilization in bifidobacteria	lcFHMO	BbgIII
+HMO utilization in bifidobacteria	lcFHMO	BbhI
+HMO utilization in bifidobacteria	lcFHMO	LnbB
+HMO utilization in bifidobacteria	lcFHMO	BbAfcA
+HMO utilization in bifidobacteria	lcFHMO	BbAfcB
+HMO utilization in bifidobacteria	lcFHMO	LacS
+HMO utilization in bifidobacteria	lcFHMO	HmoA
+HMO utilization in bifidobacteria	lcFHMO	HmoA2
+HMO utilization in bifidobacteria	lcFHMO	HmoA3
+HMO utilization in bifidobacteria	lcFHMO	HmoA4
+HMO utilization in bifidobacteria	lcFHMO	HmoA5
+HMO utilization in bifidobacteria	lcFHMO	HmoA6
+HMO utilization in bifidobacteria	lcFHMO	FL2_A2
+HMO utilization in bifidobacteria	lcFHMO	FL2_B
+HMO utilization in bifidobacteria	lcFHMO	FL2_C
+HMO utilization in bifidobacteria	lcFHMO	Bga42A
+HMO utilization in bifidobacteria	lcFHMO	Bga2A
+HMO utilization in bifidobacteria	lcFHMO	Hex1
+HMO utilization in bifidobacteria	lcFHMO	NahA
+HMO utilization in bifidobacteria	lcFHMO	Hex2
+HMO utilization in bifidobacteria	lcFHMO	BiAfcA
+HMO utilization in bifidobacteria	lcFHMO	BiAfcB
+HMO utilization in bifidobacteria	lcFHMO	LnpA
+HMO utilization in bifidobacteria	lcFHMO	LnpB
+HMO utilization in bifidobacteria	lcFHMO	LnpC
+HMO utilization in bifidobacteria	lcFHMO	LnpD
+HMO utilization in bifidobacteria	lcFHMO	NagK
+HMO utilization in bifidobacteria	lcFHMO	NagA
+HMO utilization in bifidobacteria	lcFHMO	NagB
+HMO utilization in bifidobacteria	lcFHMO	FumB
+HMO utilization in bifidobacteria	lcFHMO	FumC
+HMO utilization in bifidobacteria	lcFHMO	FumD
+HMO utilization in bifidobacteria	lcFHMO	FumE
+HMO utilization in bifidobacteria	lcFHMO	FumF
+HMO utilization in bifidobacteria	SHMO	BbgIII
+HMO utilization in bifidobacteria	SHMO	BbhI
+HMO utilization in bifidobacteria	SHMO	LnbB
+HMO utilization in bifidobacteria	SHMO	SiaBb1
+HMO utilization in bifidobacteria	SHMO	SiaBb2
+HMO utilization in bifidobacteria	SHMO	LacS
+HMO utilization in bifidobacteria	SHMO	HmoA
+HMO utilization in bifidobacteria	SHMO	HmoA2
+HMO utilization in bifidobacteria	SHMO	HmoA3
+HMO utilization in bifidobacteria	SHMO	HmoA4
+HMO utilization in bifidobacteria	SHMO	HmoA5
+HMO utilization in bifidobacteria	SHMO	HmoA6
+HMO utilization in bifidobacteria	SHMO	Bga42A
+HMO utilization in bifidobacteria	SHMO	Bga2A
+HMO utilization in bifidobacteria	SHMO	Hex1
+HMO utilization in bifidobacteria	SHMO	NahA
+HMO utilization in bifidobacteria	SHMO	Hex2
+HMO utilization in bifidobacteria	SHMO	NanH2
+HMO utilization in bifidobacteria	SHMO	LnpA
+HMO utilization in bifidobacteria	SHMO	LnpB
+HMO utilization in bifidobacteria	SHMO	LnpC
+HMO utilization in bifidobacteria	SHMO	LnpD
+HMO utilization in bifidobacteria	SHMO	NagK
+HMO utilization in bifidobacteria	SHMO	NagA
+HMO utilization in bifidobacteria	SHMO	NagB
+HMO utilization in bifidobacteria	SHMO	NanA
+HMO utilization in bifidobacteria	SHMO	NanK
+HMO utilization in bifidobacteria	SHMO	NanE
+N-glycan utilization in bifidobacteria	Nglyc	EndoBI1
+N-glycan utilization in bifidobacteria	Nglyc	EndoBI2
+N-glycan utilization in bifidobacteria	Nglyc	EndoBB
+N-glycan utilization in bifidobacteria	Nglyc	EndoBB2
+N-glycan utilization in bifidobacteria	Nglyc	BlMan38A
+N-glycan utilization in bifidobacteria	Nglyc	BlMan38B
+N-glycan utilization in bifidobacteria	Nglyc	BlMan125
+N-glycan utilization in bifidobacteria	Nglyc	BlMan5B
+N-glycan utilization in bifidobacteria	Nglyc	ManI
+N-glycan utilization in bifidobacteria	Nglyc	MnaA
+N-glycan utilization in bifidobacteria	Nglyc	MnaB
+N-glycan utilization in bifidobacteria	Nglyc	MnaC
+N-glycan utilization in bifidobacteria	Nglyc	Hex3
+N-glycan utilization in bifidobacteria	Nglyc	BiMan38
+N-glycan utilization in bifidobacteria	Nglyc	BsMan2
+N-glycan utilization in bifidobacteria	Nglyc	BiMan5
+N-glycan utilization in bifidobacteria	Nglyc	NglA
+N-glycan utilization in bifidobacteria	Nglyc	NglB
+N-glycan utilization in bifidobacteria	Nglyc	NglC
+N-glycan utilization in bifidobacteria	Ncore	AfcC
+N-glycan utilization in bifidobacteria	Ncore	AfcT
+O-glycan utilization in bifidobacteria	GNB	LnpA
+O-glycan utilization in bifidobacteria	GNB	LnpB
+O-glycan utilization in bifidobacteria	GNB	LnpC
+O-glycan utilization in bifidobacteria	GNB	LnpD
+O-glycan utilization in bifidobacteria	GNB	GltA
+O-glycan utilization in bifidobacteria	GNB	GltB
+O-glycan utilization in bifidobacteria	GNB	GltC
+O-glycan utilization in bifidobacteria	GNB	GltF
+O-glycan utilization in bifidobacteria	GNB	GltG
+O-glycan utilization in bifidobacteria	GNB	GltH
+O-glycan utilization in bifidobacteria	Tan	LnpA
+O-glycan utilization in bifidobacteria	Tan	LnpB
+O-glycan utilization in bifidobacteria	Tan	LnpC
+O-glycan utilization in bifidobacteria	Tan	LnpD
+O-glycan utilization in bifidobacteria	Tan	GltA
+O-glycan utilization in bifidobacteria	Tan	GltF
+O-glycan utilization in bifidobacteria	Tan	EngBF
+O-glycan utilization in bifidobacteria	Muc	LnpA
+O-glycan utilization in bifidobacteria	Muc	LnpB
+O-glycan utilization in bifidobacteria	Muc	LnpC
+O-glycan utilization in bifidobacteria	Muc	LnpD
+O-glycan utilization in bifidobacteria	Muc	GltA
+O-glycan utilization in bifidobacteria	Muc	GltF
+O-glycan utilization in bifidobacteria	Muc	AgaBb
+O-glycan utilization in bifidobacteria	Muc	BbgIII
+O-glycan utilization in bifidobacteria	Muc	AgnB
+O-glycan utilization in bifidobacteria	Muc	BbhI
+O-glycan utilization in bifidobacteria	Muc	BbhII
+O-glycan utilization in bifidobacteria	Muc	BbhIV
+O-glycan utilization in bifidobacteria	Muc	LnbB
+O-glycan utilization in bifidobacteria	Muc	EngBF
+O-glycan utilization in bifidobacteria	Muc	BbAfcA
+O-glycan utilization in bifidobacteria	Muc	BbAfcB
+O-glycan utilization in bifidobacteria	Muc	SiaBb1
+O-glycan utilization in bifidobacteria	Muc	SiaBb2
+Maltose and starch utilization in bifidobacteria	Mal	Agl13B
+Maltose and starch utilization in bifidobacteria	Mal	MalT
+Maltose and starch utilization in bifidobacteria	Mal	MalE2
+Maltose and starch utilization in bifidobacteria	Mal	Agl13A
+Maltose and starch utilization in bifidobacteria	Mal	MalE
+Maltose and starch utilization in bifidobacteria	Mal	MalF
+Maltose and starch utilization in bifidobacteria	Mal	MalG
+Maltose and starch utilization in bifidobacteria	Mal	Agl13C
+Maltose and starch utilization in bifidobacteria	Mal	MalE3
+Maltose and starch utilization in bifidobacteria	Mal	MalF3
+Maltose and starch utilization in bifidobacteria	Mal	MalG3
+Maltose and starch utilization in bifidobacteria	MOS	Agl13A
+Maltose and starch utilization in bifidobacteria	MOS	MalE
+Maltose and starch utilization in bifidobacteria	MOS	MalF
+Maltose and starch utilization in bifidobacteria	MOS	MalG
+Maltose and starch utilization in bifidobacteria	MOS	Agl13C
+Maltose and starch utilization in bifidobacteria	MOS	MalE3
+Maltose and starch utilization in bifidobacteria	MOS	MalF3
+Maltose and starch utilization in bifidobacteria	MOS	MalG3
+Maltose and starch utilization in bifidobacteria	ST	Agl13A
+Maltose and starch utilization in bifidobacteria	ST	MalE
+Maltose and starch utilization in bifidobacteria	ST	MalF
+Maltose and starch utilization in bifidobacteria	ST	MalG
+Maltose and starch utilization in bifidobacteria	ST	Agl13C
+Maltose and starch utilization in bifidobacteria	ST	MalE3
+Maltose and starch utilization in bifidobacteria	ST	MalF3
+Maltose and starch utilization in bifidobacteria	ST	MalG3
+Maltose and starch utilization in bifidobacteria	ST	Amy13B
+Maltose and starch utilization in bifidobacteria	ST	Amy13D
+Maltose and starch utilization in bifidobacteria	ST	ApuB
+Maltose and starch utilization in bifidobacteria	ST	RSD1
+Maltose and starch utilization in bifidobacteria	ST	RSD2
+Maltose and starch utilization in bifidobacteria	ST	RSD3
+Maltose and starch utilization in bifidobacteria	RST	Agl13A
+Maltose and starch utilization in bifidobacteria	RST	MalE
+Maltose and starch utilization in bifidobacteria	RST	MalF
+Maltose and starch utilization in bifidobacteria	RST	MalG
+Maltose and starch utilization in bifidobacteria	RST	Agl13C
+Maltose and starch utilization in bifidobacteria	RST	MalE3
+Maltose and starch utilization in bifidobacteria	RST	MalF3
+Maltose and starch utilization in bifidobacteria	RST	MalG3
+Maltose and starch utilization in bifidobacteria	RST	RSD1
+Maltose and starch utilization in bifidobacteria	RST	RSD2
+Maltose and starch utilization in bifidobacteria	RST	RSD3
+Maltose and starch utilization in bifidobacteria	PUL	Agl13A
+Maltose and starch utilization in bifidobacteria	PUL	MalE
+Maltose and starch utilization in bifidobacteria	PUL	MalF
+Maltose and starch utilization in bifidobacteria	PUL	MalG
+Maltose and starch utilization in bifidobacteria	PUL	Agl13C
+Maltose and starch utilization in bifidobacteria	PUL	MalE3
+Maltose and starch utilization in bifidobacteria	PUL	MalF3
+Maltose and starch utilization in bifidobacteria	PUL	MalG3
+Maltose and starch utilization in bifidobacteria	PUL	ApuB
+Alpha-glucoside utilization in bifidobacteria	IMO	Agl13_31A
+Alpha-glucoside utilization in bifidobacteria	IMO	ImoA
+Alpha-glucoside utilization in bifidobacteria	IMO	ImoB
+Alpha-glucoside utilization in bifidobacteria	IMO	ImoC
+Alpha-glucoside utilization in bifidobacteria	IMO	ImoD
+Alpha-glucoside utilization in bifidobacteria	IMO	Agl13_31B
+Alpha-glucoside utilization in bifidobacteria	IMO	ImoD2
+Alpha-glucoside utilization in bifidobacteria	Mlz	MelD
+Alpha-glucoside utilization in bifidobacteria	Mlz	MelA
+Alpha-glucoside utilization in bifidobacteria	Mlz	MelB
+Alpha-glucoside utilization in bifidobacteria	Mlz	MelC
+Beta-glucoside utilization in bifidobacteria	BglOS	Bgl3A
+Beta-glucoside utilization in bifidobacteria	BglOS	Bgl3B
+Beta-glucoside utilization in bifidobacteria	BglOS	Bgl3C
+Beta-glucoside utilization in bifidobacteria	BglOS	CldC
+Beta-glucoside utilization in bifidobacteria	BglOS	CldE
+Beta-glucoside utilization in bifidobacteria	BglOS	CldF
+Beta-glucoside utilization in bifidobacteria	BglOS	CldG
+Beta-glucoside utilization in bifidobacteria	BglOS	Bgl1B
+Beta-glucoside utilization in bifidobacteria	BglOS	BglA
+Beta-glucoside utilization in bifidobacteria	BglOS	BglB
+Beta-glucoside utilization in bifidobacteria	BglOS	BglC
+Beta-glucoside utilization in bifidobacteria	BglOS	Bgl1A
+Beta-glucoside utilization in bifidobacteria	BglOS	BglA2
+Beta-glucoside utilization in bifidobacteria	BglOS	BglB2
+Beta-glucoside utilization in bifidobacteria	BglOS	BglC2
+Beta-glucoside utilization in bifidobacteria	BglOS	GenP
+Beta-glucoside utilization in bifidobacteria	BGL12	LiSOGP
+Beta-glucoside utilization in bifidobacteria	BGL12	Bgl3D
+Beta-glucoside utilization in bifidobacteria	BGL12	BglK
+Beta-glucoside utilization in bifidobacteria	BGL12	BglL
+Beta-glucoside utilization in bifidobacteria	BGL12	BglM
+Beta-glucoside utilization in bifidobacteria	BGL12	BglN
+Beta-glucoside utilization in bifidobacteria	BGL12	BglO
+Alpha-galactoside utilization in bifidobacteria	Mel	RafA
+Alpha-galactoside utilization in bifidobacteria	Mel	RafA2
+Alpha-galactoside utilization in bifidobacteria	Mel	RafB
+Alpha-galactoside utilization in bifidobacteria	Mel	RafC
+Alpha-galactoside utilization in bifidobacteria	Mel	RafD
+Alpha-galactoside utilization in bifidobacteria	RFO	RafA
+Alpha-galactoside utilization in bifidobacteria	RFO	RafA2
+Alpha-galactoside utilization in bifidobacteria	RFO	RafB
+Alpha-galactoside utilization in bifidobacteria	RFO	RafC
+Alpha-galactoside utilization in bifidobacteria	RFO	RafD
+Beta-galactoside utilization in bifidobacteria	Lac	Bga2A
+Beta-galactoside utilization in bifidobacteria	Lac	Bga2B
+Beta-galactoside utilization in bifidobacteria	Lac	Bga2C
+Beta-galactoside utilization in bifidobacteria	Lac	LacL
+Beta-galactoside utilization in bifidobacteria	Lac	LacM
+Beta-galactoside utilization in bifidobacteria	Lac	LacS
+Beta-galactoside utilization in bifidobacteria	GOS	Bga2D
+Beta-galactoside utilization in bifidobacteria	GOS	GosT
+Beta-galactoside utilization in bifidobacteria	GOS	Bga42B
+Beta-galactoside utilization in bifidobacteria	GOS	Bga42C
+Beta-galactoside utilization in bifidobacteria	GOS	GosA
+Beta-galactoside utilization in bifidobacteria	GOS	GosB
+Beta-galactoside utilization in bifidobacteria	GOS	GosC
+Beta-galactoside utilization in bifidobacteria	GOS	GosA2
+Beta-galactoside utilization in bifidobacteria	GOS	GosB2
+Beta-galactoside utilization in bifidobacteria	GOS	GosC2
+Beta-galactoside utilization in bifidobacteria	GOS	Bga42A
+Beta-galactoside utilization in bifidobacteria	GOS	GosF
+Beta-galactoside utilization in bifidobacteria	GOS	GosG
+Beta-galactoside utilization in bifidobacteria	GOS	GosH
+Beta-galactoside utilization in bifidobacteria	GOS	GosX
+Beta-galactoside utilization in bifidobacteria	PG	Bga42B
+Beta-galactoside utilization in bifidobacteria	PG	Bga42C
+Beta-galactoside utilization in bifidobacteria	PG	GalA
+Beta-galactoside utilization in bifidobacteria	PG	GosA
+Beta-galactoside utilization in bifidobacteria	PG	GosB
+Beta-galactoside utilization in bifidobacteria	PG	GosC
+Beta-galactoside utilization in bifidobacteria	PG	GosA2
+Beta-galactoside utilization in bifidobacteria	PG	GosB2
+Beta-galactoside utilization in bifidobacteria	PG	GosC2
+Beta-galactoside utilization in bifidobacteria	AGII	Bga42A
+Beta-galactoside utilization in bifidobacteria	AGII	GosF
+Beta-galactoside utilization in bifidobacteria	AGII	GosG
+Beta-galactoside utilization in bifidobacteria	AGII	GosH
+Beta-galactoside utilization in bifidobacteria	AGII	GosX
+Beta-galactoside utilization in bifidobacteria	AGII	BlArafA
+Beta-galactoside utilization in bifidobacteria	AGII	BlArafE
+Beta-galactoside utilization in bifidobacteria	AGII	Bl13Gal
+Beta-galactoside utilization in bifidobacteria	AGII	Bl16Gal
+Beta-galactoside utilization in bifidobacteria	AGII	Gaf39
+Beta-galactoside utilization in bifidobacteria	GalAf	Gaf39
+Beta-galactoside utilization in bifidobacteria	GalAf	Gaf36
+Beta-galactoside utilization in bifidobacteria	GalAf	GafA
+Beta-galactoside utilization in bifidobacteria	GalAf	GafB
+Beta-galactoside utilization in bifidobacteria	GalAf	GafC
+Beta-galactoside utilization in bifidobacteria	GA	Bga42A
+Beta-galactoside utilization in bifidobacteria	GA	GosF
+Beta-galactoside utilization in bifidobacteria	GA	GosG
+Beta-galactoside utilization in bifidobacteria	GA	GosH
+Beta-galactoside utilization in bifidobacteria	GA	GosX
+Beta-galactoside utilization in bifidobacteria	GA	BlArafE
+Beta-galactoside utilization in bifidobacteria	GA	Bl13Gal
+Beta-galactoside utilization in bifidobacteria	GA	Bl16Gal
+Beta-galactoside utilization in bifidobacteria	GA	Gaf39
+Fructose and fructoside utilization in bifidobacteria	Fru	Frk
+Fructose and fructoside utilization in bifidobacteria	Fru	FruP
+Fructose and fructoside utilization in bifidobacteria	Fru	FruE
+Fructose and fructoside utilization in bifidobacteria	Fru	FruA
+Fructose and fructoside utilization in bifidobacteria	Fru	FruA2c
+Fructose and fructoside utilization in bifidobacteria	Scr	ScrP
+Fructose and fructoside utilization in bifidobacteria	Scr	ScrT
+Fructose and fructoside utilization in bifidobacteria	Scr	ScrF
+Fructose and fructoside utilization in bifidobacteria	Scr	CscA
+Fructose and fructoside utilization in bifidobacteria	Scr	CscB
+Fructose and fructoside utilization in bifidobacteria	Scr	ScrA
+Fructose and fructoside utilization in bifidobacteria	Scr	ScrB
+Fructose and fructoside utilization in bifidobacteria	scFOS	Frk
+Fructose and fructoside utilization in bifidobacteria	scFOS	CscA
+Fructose and fructoside utilization in bifidobacteria	scFOS	CscB
+Fructose and fructoside utilization in bifidobacteria	scFOS	ScrA
+Fructose and fructoside utilization in bifidobacteria	scFOS	ScrB
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrA
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrB
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrC
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrD
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrA2
+Fructose and fructoside utilization in bifidobacteria	scFOS	BfrB2
+Fructose and fructoside utilization in bifidobacteria	lcFOS	Frk
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrA
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrB
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrC
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrD
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrA2
+Fructose and fructoside utilization in bifidobacteria	lcFOS	BfrB2
+Fructose and fructoside utilization in bifidobacteria	DFA	BfrA3
+Fructose and fructoside utilization in bifidobacteria	DFA	aFFase1
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaA
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaB
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaC
+Fructose and fructoside utilization in bifidobacteria	DFA	DFAase91
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaF
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaG
+Fructose and fructoside utilization in bifidobacteria	DFA	DfaH
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManI
+Mannose and mannoside utilization in bifidobacteria	bMnOS	Mnb2
+Mannose and mannoside utilization in bifidobacteria	bMnOS	MnbA
+Mannose and mannoside utilization in bifidobacteria	bMnOS	MnbB
+Mannose and mannoside utilization in bifidobacteria	bMnOS	MnbC
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManE
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManF
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManG
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManL
+Mannose and mannoside utilization in bifidobacteria	bMnOS	ManM
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManI
+Mannose and mannoside utilization in bifidobacteria	GmOS	Mnb2
+Mannose and mannoside utilization in bifidobacteria	GmOS	BaGlu1
+Mannose and mannoside utilization in bifidobacteria	GmOS	MnbA
+Mannose and mannoside utilization in bifidobacteria	GmOS	MnbB
+Mannose and mannoside utilization in bifidobacteria	GmOS	MnbC
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManE
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManF
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManG
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManL
+Mannose and mannoside utilization in bifidobacteria	GmOS	ManM
+Mannose and mannoside utilization in bifidobacteria	GmOS	BiMan2
+Mannose and mannoside utilization in bifidobacteria	GmOS	BiGlu1
+Mannose and mannoside utilization in bifidobacteria	GmOS	GmoA
+Mannose and mannoside utilization in bifidobacteria	GmOS	GmoB
+Mannose and mannoside utilization in bifidobacteria	GmOS	GmoC
+Mannose and mannoside utilization in bifidobacteria	bMAN	ManI
+Mannose and mannoside utilization in bifidobacteria	bMAN	Mnb2
+Mannose and mannoside utilization in bifidobacteria	bMAN	BaMan26A
+Mannose and mannoside utilization in bifidobacteria	bMAN	BlMan5_8
+Mannose and mannoside utilization in bifidobacteria	bMAN	BdAga36
+Mannose and mannoside utilization in bifidobacteria	bMAN	BaGlu1
+Mannose and mannoside utilization in bifidobacteria	bMAN	MnbA
+Mannose and mannoside utilization in bifidobacteria	bMAN	ManE
+Xylose and xyloside utilization in bifidobacteria	Xyl	XylA
+Xylose and xyloside utilization in bifidobacteria	Xyl	XylB
+Xylose and xyloside utilization in bifidobacteria	Xyl	XylF
+Xylose and xyloside utilization in bifidobacteria	Xyl	XylG
+Xylose and xyloside utilization in bifidobacteria	Xyl	XylH
+Xylose and xyloside utilization in bifidobacteria	Xyl	FruE
+Xylose and xyloside utilization in bifidobacteria	Xyl	FruF
+Xylose and xyloside utilization in bifidobacteria	Xyl	FruG
+Xylose and xyloside utilization in bifidobacteria	Xyl	FruK
+Xylose and xyloside utilization in bifidobacteria	Xyl	AraF
+Xylose and xyloside utilization in bifidobacteria	Xyl	AraG
+Xylose and xyloside utilization in bifidobacteria	Xyl	AraH
+Xylose and xyloside utilization in bifidobacteria	XOS	XylA
+Xylose and xyloside utilization in bifidobacteria	XOS	XylB
+Xylose and xyloside utilization in bifidobacteria	XOS	BpXyl43C
+Xylose and xyloside utilization in bifidobacteria	XOS	XosA
+Xylose and xyloside utilization in bifidobacteria	XOS	XosB
+Xylose and xyloside utilization in bifidobacteria	XOS	XosC
+Xylose and xyloside utilization in bifidobacteria	XOS	BpXyl43A
+Xylose and xyloside utilization in bifidobacteria	XOS	XosD
+Xylose and xyloside utilization in bifidobacteria	XOS	Xyl120C
+Xylose and xyloside utilization in bifidobacteria	XOS	XosX
+Xylose and xyloside utilization in bifidobacteria	XOS	XosY
+Xylose and xyloside utilization in bifidobacteria	XOS	XosZ
+Xylose and xyloside utilization in bifidobacteria	AXOS	XylA
+Xylose and xyloside utilization in bifidobacteria	AXOS	XylB
+Xylose and xyloside utilization in bifidobacteria	AXOS	FruE
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraA
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraB
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraD
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraF
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraG
+Xylose and xyloside utilization in bifidobacteria	AXOS	AraH
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpXyl43C
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpAbf43B
+Xylose and xyloside utilization in bifidobacteria	AXOS	XosA
+Xylose and xyloside utilization in bifidobacteria	AXOS	XosB
+Xylose and xyloside utilization in bifidobacteria	AXOS	XosC
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpXyl43A
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpXyl120A
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpAbf43A
+Xylose and xyloside utilization in bifidobacteria	AXOS	XosD
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpXyl43B
+Xylose and xyloside utilization in bifidobacteria	AXOS	BpXyl120B
+Xylose and xyloside utilization in bifidobacteria	AXOS	XosK
+Xylose and xyloside utilization in bifidobacteria	AXOS	BlArafD
+Xylose and xyloside utilization in bifidobacteria	AXOS	BlArafE
+Xylose and xyloside utilization in bifidobacteria	AXOS	AxuA
+Xylose and xyloside utilization in bifidobacteria	AXOS	AxuB
+Xylose and xyloside utilization in bifidobacteria	XL	BpXyl43C
+Xylose and xyloside utilization in bifidobacteria	XL	XosA
+Xylose and xyloside utilization in bifidobacteria	XL	BpXyn10A
+Xylose and xyloside utilization in bifidobacteria	AX	XylA
+Xylose and xyloside utilization in bifidobacteria	AX	XylB
+Xylose and xyloside utilization in bifidobacteria	AX	FruE
+Xylose and xyloside utilization in bifidobacteria	AX	AraA
+Xylose and xyloside utilization in bifidobacteria	AX	AraB
+Xylose and xyloside utilization in bifidobacteria	AX	AraD
+Xylose and xyloside utilization in bifidobacteria	AX	AraF
+Xylose and xyloside utilization in bifidobacteria	AX	AraG
+Xylose and xyloside utilization in bifidobacteria	AX	AraH
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyl43C
+Xylose and xyloside utilization in bifidobacteria	AX	BpAbf43B
+Xylose and xyloside utilization in bifidobacteria	AX	XosA
+Xylose and xyloside utilization in bifidobacteria	AX	XosB
+Xylose and xyloside utilization in bifidobacteria	AX	XosC
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyl43A
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyl120A
+Xylose and xyloside utilization in bifidobacteria	AX	BpAbf43A
+Xylose and xyloside utilization in bifidobacteria	AX	XosD
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyl43B
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyl120B
+Xylose and xyloside utilization in bifidobacteria	AX	XosK
+Xylose and xyloside utilization in bifidobacteria	AX	BpXyn10A
+Xylose and xyloside utilization in bifidobacteria	AX	BlArafD
+Xylose and xyloside utilization in bifidobacteria	AX	BlArafE
+Xylose and xyloside utilization in bifidobacteria	AX	AxuA
+Xylose and xyloside utilization in bifidobacteria	AX	AxuB
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraA
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraB
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraD
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraE
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraF
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraG
+Arabinose and arabinoside utilization in bifidobacteria	Ara	AraH
+Arabinose and arabinoside utilization in bifidobacteria	Ara	FruE
+Arabinose and arabinoside utilization in bifidobacteria	Ara	FruF
+Arabinose and arabinoside utilization in bifidobacteria	Ara	FruG
+Arabinose and arabinoside utilization in bifidobacteria	Ara	FruK
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AraA
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AraB
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AraD
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AbfC
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abf43A
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abf43B
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abf43C
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abn43A
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abn43B
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauA
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauB
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauC
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abf51A
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauN
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauP
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	AauQ
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	Abf51B
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	BlArafB
+Arabinose and arabinoside utilization in bifidobacteria	aAOS	BlArafC
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	AraA
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	AraB
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	AraD
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	HypBA1
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	HypBA2
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	HypAA
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauA
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauB
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauC
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	Abf127C
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauT
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	Bau39
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	Abf127B
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	Abp36B
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauE
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauF
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauG
+Arabinose and arabinoside utilization in bifidobacteria	bAOS	BauR3
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraA
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraB
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraD
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraF
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraG
+Arabinose and arabinoside utilization in bifidobacteria	AR	AraH
+Arabinose and arabinoside utilization in bifidobacteria	AR	FruE
+Arabinose and arabinoside utilization in bifidobacteria	AR	FruF
+Arabinose and arabinoside utilization in bifidobacteria	AR	FruG
+Arabinose and arabinoside utilization in bifidobacteria	AR	FruK
+Arabinose and arabinoside utilization in bifidobacteria	AR	BlArafB
+Arabinose and arabinoside utilization in bifidobacteria	AR	BlArafC
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	AraA
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	AraB
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	AraD
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	HypBA1
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	HypBA2
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	HypAA
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauA
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauB
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauC
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	Abf127C
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauT
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	Abf127B
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	Abp36B
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauE
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauF
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauG
+Arabinose and arabinoside utilization in bifidobacteria	HRGP	BauR3
+Xyloglucan catabolism in bifidobacteria	XglOS	XylA
+Xyloglucan catabolism in bifidobacteria	XglOS	XylB
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl31A
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl1
+Xyloglucan catabolism in bifidobacteria	XglOS	XglF
+Xyloglucan catabolism in bifidobacteria	XglOS	XglG
+Xyloglucan catabolism in bifidobacteria	XglOS	XglH
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl29
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl3
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl31B
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl5B
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl43
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl42
+Xyloglucan catabolism in bifidobacteria	XglOS	XglA
+Xyloglucan catabolism in bifidobacteria	XglOS	XglB
+Xyloglucan catabolism in bifidobacteria	XglOS	XglC
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl31C
+Xyloglucan catabolism in bifidobacteria	XglOS	XglX
+Xyloglucan catabolism in bifidobacteria	XglOS	XglY
+Xyloglucan catabolism in bifidobacteria	XglOS	XglZ
+Xyloglucan catabolism in bifidobacteria	XglOS	Xgl31D
+Xyloglucan catabolism in bifidobacteria	XglOS	XglN
+Xyloglucan catabolism in bifidobacteria	XglOS	XglP
+Xyloglucan catabolism in bifidobacteria	XglOS	XglQ
+Xyloglucan catabolism in bifidobacteria	XGL	XylA
+Xyloglucan catabolism in bifidobacteria	XGL	XylB
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl29
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl3
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl31B
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl5A
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl43
+Xyloglucan catabolism in bifidobacteria	XGL	Xgl42
+Xyloglucan catabolism in bifidobacteria	XGL	XglA
+Xyloglucan catabolism in bifidobacteria	XGL	XglB
+Xyloglucan catabolism in bifidobacteria	XGL	XglC
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	UxaC
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	UxuB
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	UxuA
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	KdgK2
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	KdgD
+D-glucuronate and glucuronide utilization in bifidobacteria	GlcA	ExuT
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	UxaC
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	UxuB
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	UxuA
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	KdgK2
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	KdgD
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	Gus30
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	Bgal59
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	Arha78
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	Gus154
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	ExuP
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	GusA
+D-glucuronate and glucuronide utilization in bifidobacteria	GluA	GusB
+D-gluconate utilization in bifidobacteria	Gco	GntK
+D-gluconate utilization in bifidobacteria	Gco	GntT
+D-galactonate utilization in bifidobacteria	Glt	DgoD
+D-galactonate utilization in bifidobacteria	Glt	DgoK
+D-galactonate utilization in bifidobacteria	Glt	DgoA
+D-galactonate utilization in bifidobacteria	Glt	DgoE
+D-galactonate utilization in bifidobacteria	Glt	DgoF
+D-galactonate utilization in bifidobacteria	Glt	DgoG
+Inositol utilization in bifidobacteria	Ino	IolG1
+Inositol utilization in bifidobacteria	Ino	IolG2
+Inositol utilization in bifidobacteria	Ino	IolE
+Inositol utilization in bifidobacteria	Ino	IolD
+Inositol utilization in bifidobacteria	Ino	IolB
+Inositol utilization in bifidobacteria	Ino	IolT1
+Inositol utilization in bifidobacteria	Ino	IolT2
+Sugar alcohol utilization in bifidobacteria	Mtl	MtlD
+Sugar alcohol utilization in bifidobacteria	Mtl	Frk
+Sugar alcohol utilization in bifidobacteria	Mtl	MtlP
+Sugar alcohol utilization in bifidobacteria	Stl	Frk
+Sugar alcohol utilization in bifidobacteria	Stl	GutB
+Sugar alcohol utilization in bifidobacteria	Stl	StlP
+Ascorbate utilization in bifidobacteria	Asc	AscK
+Ascorbate utilization in bifidobacteria	Asc	AscG
+Ascorbate utilization in bifidobacteria	Asc	SgbH
+Ascorbate utilization in bifidobacteria	Asc	SgbU
+Ascorbate utilization in bifidobacteria	Asc	AraD
+Ascorbate utilization in bifidobacteria	Asc	AscT
+Ascorbate utilization in bifidobacteria	L-Xul	SgbU
+Ascorbate utilization in bifidobacteria	L-Xul	AraD
+Ascorbate utilization in bifidobacteria	L-Xul	XulT
+Ascorbate utilization in bifidobacteria	L-Xul	XulK

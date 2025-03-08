@@ -1,0 +1,669 @@
+Glucose utilization in bifidobacteria	GlcK	Glucokinase (EC 2.7.1.2)	-	-	-
+Glucose utilization in bifidobacteria	PpgK	Polyphosphate glucokinase (EC 2.7.1.63)	-	-	-
+Glucose utilization in bifidobacteria	GlcP	Glucose MFS permease (TC 2.A.1.1.42)	-	-	-
+Glucose utilization in bifidobacteria	GlcU	Glucose DMT permease (TC 2.A.7.5)	-	-	-
+Glucose utilization in bifidobacteria	PtsG	Glucose-specific PTS system IIABC components (TC 4.A.1.2.18)	-	-	-
+Glucose utilization in bifidobacteria	GluT	Putative transcriptional antiterminator of glucose-specific PTS system (BglG family)	-	-	-
+Galactose utilization in bifidobacteria	GalK	Galactokinase (EC 2.7.1.6)	-	-	-
+Galactose utilization in bifidobacteria	GalT	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.12)	-	-	-
+Galactose utilization in bifidobacteria	GalE	UDP-glucose 4-epimerase (EC 5.1.3.2)	-	-	-
+Galactose utilization in bifidobacteria	LnpD	UDP-hexose 4-epimerase (EC 5.1.3.2)	-	-	-
+Galactose utilization in bifidobacteria	Pgm	Phosphoglucomutase (EC 5.4.2.2)	-	-	-
+Galactose utilization in bifidobacteria	GalP	Galactose MFS permease (TC 2.A.1.1.42)	-	-	-
+Galactose utilization in bifidobacteria	GalS	Putative galactose MFS permease (TC 2.A.2)	-	-	-
+Galactose utilization in bifidobacteria	SgaT	Putative galactose MFS permease (TC 2.A.21)	-	-	-
+Galactose utilization in bifidobacteria	GalR	Putative transcriptional regulator of galactose utilization (DeoR family)	-	-	-
+Galactose utilization in bifidobacteria	GalR2	Putative transcriptional regulator of galactose utilization (LacI family)	-	-	-
+Ribose utilization in bifidobacteria	RbsD	D-ribose pyranase (EC 5.4.99.62)	-	-	-
+Ribose utilization in bifidobacteria	RbsK	Ribokinase (EC 2.7.1.15)	-	-	-
+Ribose utilization in bifidobacteria	RbsA	Ribose ABC transporter ATP-binding component (TC 3.A.1.2)	-	-	-
+Ribose utilization in bifidobacteria	RbsB	Ribose ABC transporter substrate-binding component (TC 3.A.1.2)	-	-	-
+Ribose utilization in bifidobacteria	RbsC	Ribose ABC transporter permease component (TC 3.A.1.2)	-	-	-
+Ribose utilization in bifidobacteria	FruE	Fructose/xylose/ribose/arabinose ABC transporter substrate-binding component (TC 3.A.1.2.23)	-	-	-
+Ribose utilization in bifidobacteria	FruF	Fructose/xylose/ribose/arabinose ABC transporter permease component 1 (TC 3.A.1.2.23)	-	-	-
+Ribose utilization in bifidobacteria	FruG	Fructose/xylose/ribose/arabinose ABC transporter permease component 2 (TC 3.A.1.2.23)	-	-	-
+Ribose utilization in bifidobacteria	FruK	Fructose/xylose/ribose/arabinose ABC transporter ATP-binding component (TC 3.A.1.2.23)	-	-	-
+Ribose utilization in bifidobacteria	RbsR	Transcriptional regulator of ribose utilization (LacI family)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagEa	Putative N-acetylglucosamine-specific PTS system IIA component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagEb	Putative N-acetylglucosamine-specific PTS system IIB component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagEc	Putative N-acetylglucosamine-specific PTS system IIC component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagE2a	Putative N-acetylglucosamine-specific PTS system-2 IIA component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagE2b	Putative N-acetylglucosamine-specific PTS system-2 IIB component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagE2c	Putative N-acetylglucosamine-specific PTS system-2 IIC component (TC 4.A.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagK	Putative N-acetylglucosamine kinase (EC 2.7.1.59)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	Hex1	Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NahA	Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	ChiX	Putative diacetylchitobiose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	ChiY	Putative diacetylchitobiose ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	ChiZ	Putative diacetylchitobiose ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	ChiR	Putative transcriptional regulator of diacetylchitobiose utilization (LacI family)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagKs	Putative N-acetylglucosamine kinase involved in GlcNAc-6S utilization (EC 2.7.1.59)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagAs	N-acetylglucosamine-6-phosphate deacetylase involved in GlcNAc-6S utilization (EC 3.5.1.25)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	NagBs	Glucosamine-6-phosphate deaminase involved in GlcNAc-6S utilization (EC 3.5.99.6)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	AtsA	Anaerobic N-acetylglucosamine-6-sulfatase (EC 3.1.6.14)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	AtsB	Putative anaerobic N-acetylglucosamine-6-sulfatase maturing enzyme	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	AtsE	Putative sulfite/sulfate exporter	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	AtsT	N-acetylglucosamine-6-sulfate MFS permease (TC 2.A.1.1)	-	-	-
+N-acetylglucosamine utilization in bifidobacteria	AtsR	Transcriptional regulator of N-acetylglucosamine-6-sulfate utilization (LacI family)	-	-	-
+Fucose utilization in bifidobacteria	FumB	L-fucose mutarotase-1 (EC 5.1.3.29)	-	-	-
+Fucose utilization in bifidobacteria	FumC	L-fuco-beta-pyranose dehydrogenase-1 (EC 1.1.1.122)	-	-	-
+Fucose utilization in bifidobacteria	FumD	L-fuconolactone hydrolase-1 (EC 3.1.1.-)	-	-	-
+Fucose utilization in bifidobacteria	FumE	L-fuconate dehydratase-1 (EC 4.2.1.68)	-	-	-
+Fucose utilization in bifidobacteria	FumF	2-keto-3-deoxy-L-fuconate aldolase-1 (EC 4.1.2.18)	-	-	-
+Fucose utilization in bifidobacteria	FumB2	L-fucose mutarotase-2 (EC 5.1.3.29)	-	-	-
+Fucose utilization in bifidobacteria	FumC2	L-fuco-beta-pyranose dehydrogenase-2 (EC 1.1.1.122)	-	-	-
+Fucose utilization in bifidobacteria	FumD2	L-fuconolactone hydrolase-2 (EC 3.1.1.-)	-	-	-
+Fucose utilization in bifidobacteria	FumE2	L-fuconate dehydratase-2 (EC 4.2.1.68)	-	-	-
+Fucose utilization in bifidobacteria	FumF2	2-keto-3-deoxy-L-fuconate aldolase-2 (EC 4.1.2.18)	-	-	-
+Fucose utilization in bifidobacteria	FucP	Fucose MFS permease (TC 2.A.1.7)	-	-	-
+Fucose utilization in bifidobacteria	FucR	Transcriptional regulator of fucose utilization (LacI family)	-	-	-
+Fucose utilization in bifidobacteria	FucO	Lactaldehyde reductase (EC 1.1.1.77)	-	-	-
+Sialic acid utilization in bifidobacteria	NanA	N-acetylneuraminate lyase (EC 4.1.3.3)	-	-	-
+Sialic acid utilization in bifidobacteria	NanK	N-acetylmannosamine kinase (EC 2.7.1.60)	-	-	-
+Sialic acid utilization in bifidobacteria	NanE	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	-	-	-
+Sialic acid utilization in bifidobacteria	NagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	-	-	-
+Sialic acid utilization in bifidobacteria	NagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	-	-	-
+Sialic acid utilization in bifidobacteria	NanB	N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanC	N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanD	N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanF	N-acetylneuraminate ABC transporter ATP-binding component (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanB2	Putative N-acetylneuraminate ABC transporter substrate-binding component (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanC2	Putative N-acetylneuraminate ABC transporter permease component 1 (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanD2	Putative N-acetylneuraminate ABC transporter permease component 2 (TC 3.A.1)	-	-	-
+Sialic acid utilization in bifidobacteria	NanR	Transcriptional regulator of N-acetylneuraminate utilization (GntR family)	-	-	-
+Sialic acid utilization in bifidobacteria	NanR2	Putative transcriptional regulator of N-acetylneuraminate utilization (RpiR family)	-	-	-
+HMO utilization in bifidobacteria	BbgIII	Extracellular beta-1,4-galactosidase (GH2)	-	-	-
+HMO utilization in bifidobacteria	BbhI	Extracellular beta-1,3-N-acetylglucosaminidase (GH20)	-	-	-
+HMO utilization in bifidobacteria	LnbB	Extracellular lacto-N-biosidase (GH20)	-	-	-
+HMO utilization in bifidobacteria	LnbX	Extracellular lacto-N-biosidase (GH136)	-	-	-
+HMO utilization in bifidobacteria	LnbI	Putative extracellular lacto-N-biosidase (GH136)	-	-	-
+HMO utilization in bifidobacteria	BbAfcA	Extracellular alpha-1,2-L-fucosidase (GH95)	-	-	-
+HMO utilization in bifidobacteria	BbAfcB	Extracellular alpha-1,3/4-L-fucosidase (GH29)	-	-	-
+HMO utilization in bifidobacteria	SiaBb1	Extracellular alpha-2,3/6/8-sialidase with acetylesterase (GH33)	-	-	-
+HMO utilization in bifidobacteria	SiaBb2	Extracellular alpha-2,3/6/8-sialidase (GH33)	-	-	-
+HMO utilization in bifidobacteria	LacS	Lactose MFS permease (TC 2.A.2)	-	-	-
+HMO utilization in bifidobacteria	GltA	Lacto-N-biose/galacto-N-biose ABC transporter-1 substrate-binding component (TC 3.A.1.1.48)	-	-	-
+HMO utilization in bifidobacteria	GltB	Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 1 (TC 3.A.1.1.48)	-	-	-
+HMO utilization in bifidobacteria	GltC	Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 2 (TC 3.A.1.1.48)	-	-	-
+HMO utilization in bifidobacteria	GltF	Lacto-N-biose/galacto-N-biose ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	GltG	Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	GltH	Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	GltA_LNT	Type I chain HMO ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	GltB_LNT	Type I chain HMO ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	GltC_LNT	Type I chain HMO ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA	Type II chain HMO ABC transporter (Blon_2347) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA2	Putative HMO ABC transporter (Blon_2344) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoB	Putative HMO ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoC	Putative HMO ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA3	Putative HMO ABC transporter (Blon_2350) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA4	Putative HMO ABC transporter (Blon_2351) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA5	Putative HMO ABC transporter (Blon_2352) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	HmoA6	Putative HMO ABC transporter (Blon_2354) substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	NahS	LNnT ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	NahB	LNnT ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	NahC	LNnT ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL1_A	2'FL, 3FL ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL2_A	2'FL, 3FL, LDFT, LNFP I ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL2_A2	LNFP II, LNDFH I, LNDFH II ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL2_B	Fucosylated HMO ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL2_C	Fucosylated HMO ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL3_A	Putative alpha-1,3-fucosylated glycan ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL3_B	Putative alpha-1,3-fucosylated glycan ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	FL3_C	Putative alpha-1,3-fucosylated glycan ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+HMO utilization in bifidobacteria	LnbC	Putative lacto-N-biosidase (GH136)	-	-	-
+HMO utilization in bifidobacteria	Bga42A	Beta-1,3/4/6-galactosidase (GH42)	-	-	-
+HMO utilization in bifidobacteria	Bga2A	Beta-1,4-galactosidase (GH2)	-	-	-
+HMO utilization in bifidobacteria	Hex1	Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	-	-	-
+HMO utilization in bifidobacteria	NahA	Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	-	-	-
+HMO utilization in bifidobacteria	Hex2	Beta-1,3/4-N-acetylglucosaminidase (GH20)	-	-	-
+HMO utilization in bifidobacteria	BiAfcA	Alpha-1,2-L-fucosidase (GH95)	-	-	-
+HMO utilization in bifidobacteria	BiAfcB	Alpha-1,3/4-L-fucosidase (GH29)	-	-	-
+HMO utilization in bifidobacteria	NanH1	Alpha-2,3/6-sialidase (GH33)	-	-	-
+HMO utilization in bifidobacteria	NanH2	HMO cluster I alpha-2,3/6-sialidase (GH33)	-	-	-
+HMO utilization in bifidobacteria	LnpA	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase (EC 2.4.1.211)	-	-	-
+HMO utilization in bifidobacteria	LnpB	N-acetylhexosamine 1-kinase (EC 2.7.1.162)	-	-	-
+HMO utilization in bifidobacteria	LnpC	UDP-glucose---hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)	-	-	-
+HMO utilization in bifidobacteria	LnpD	UDP-hexose 4-epimerase (EC 5.1.3.2)	-	-	-
+HMO utilization in bifidobacteria	GlcK	Glucokinase (EC 2.7.1.2)	-	-	-
+HMO utilization in bifidobacteria	PpgK	Polyphosphate glucokinase (EC 2.7.1.63)	-	-	-
+HMO utilization in bifidobacteria	GalK	Galactokinase (EC 2.7.1.6)	-	-	-
+HMO utilization in bifidobacteria	GalT	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.12)	-	-	-
+HMO utilization in bifidobacteria	GalE	UDP-glucose 4-epimerase (EC 5.1.3.2)	-	-	-
+HMO utilization in bifidobacteria	Pgm	Phosphoglucomutase (EC 5.4.2.2)	-	-	-
+HMO utilization in bifidobacteria	NagK	Putative N-acetylglucosamine kinase (EC 2.7.1.59)	-	-	-
+HMO utilization in bifidobacteria	NagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	-	-	-
+HMO utilization in bifidobacteria	NagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	-	-	-
+HMO utilization in bifidobacteria	NanA	N-acetylneuraminate lyase (EC 4.1.3.3)	-	-	-
+HMO utilization in bifidobacteria	NanK	N-acetylmannosamine kinase (EC 2.7.1.60)	-	-	-
+HMO utilization in bifidobacteria	NanE	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	-	-	-
+HMO utilization in bifidobacteria	FumB	L-fucose mutarotase-1 (EC 5.1.3.29)	-	-	-
+HMO utilization in bifidobacteria	FumC	L-fuco-beta-pyranose dehydrogenase-1 (EC 1.1.1.122)	-	-	-
+HMO utilization in bifidobacteria	FumD	L-fuconolactone hydrolase-1 (EC 3.1.1.-)	-	-	-
+HMO utilization in bifidobacteria	FumE	L-fuconate dehydratase-1 (EC 4.2.1.68)	-	-	-
+HMO utilization in bifidobacteria	FumF	2-keto-3-deoxy-L-fuconate aldolase-1 (EC 4.1.2.18)	-	-	-
+HMO utilization in bifidobacteria	FumB2	L-fucose mutarotase-2 (EC 5.1.3.29)	-	-	-
+HMO utilization in bifidobacteria	FumC2	L-fuco-beta-pyranose dehydrogenase-2 (EC 1.1.1.122)	-	-	-
+HMO utilization in bifidobacteria	FumD2	L-fuconolactone hydrolase-2 (EC 3.1.1.-)	-	-	-
+HMO utilization in bifidobacteria	FumE2	L-fuconate dehydratase-2 (EC 4.2.1.68)	-	-	-
+HMO utilization in bifidobacteria	FumF2	2-keto-3-deoxy-L-fuconate aldolase-2 (EC 4.1.2.18)	-	-	-
+HMO utilization in bifidobacteria	FucO	Lactaldehyde reductase (EC 1.1.1.77)	-	-	-
+HMO utilization in bifidobacteria	NagR	Transcriptional regulator of GlcNAc, LNB/GNB, and HMO utilization (ROK family)	-	-	-
+HMO utilization in bifidobacteria	NahR	Transcriptional regulator of LNnT utilization (ROK family)	-	-	-
+HMO utilization in bifidobacteria	FumR	Putative transcriptional regulator of fucosylated HMO utilization (LacI family)	-	-	-
+N-glycan utilization in bifidobacteria	EndoBI1	Endo-beta-N-acetylglucosaminidase-1 (GH18)	-	-	-
+N-glycan utilization in bifidobacteria	EndoBI2	Endo-beta-N-acetylglucosaminidase-2 (GH18)	-	-	-
+N-glycan utilization in bifidobacteria	EndoBB	Endo-beta-N-acetylglucosaminidase (GH85)	-	-	-
+N-glycan utilization in bifidobacteria	EndoBB2	Putative endo-beta-N-acetylglucosaminidase (GH85)	-	-	-
+N-glycan utilization in bifidobacteria	Mna3	Putative N-glycan glycoside hydrolase (GH3)	-	-	-
+N-glycan utilization in bifidobacteria	BlGlc31	N-glycan alpha-glucosidase (GH31)	-	-	-
+N-glycan utilization in bifidobacteria	Man38	Alpha-mannosidase (GH38)	-	-	-
+N-glycan utilization in bifidobacteria	BlMan38A	Alpha-1,2/3/6-mannosidase-1 (GH38)	-	-	-
+N-glycan utilization in bifidobacteria	BlMan38B	Alpha-1,2/3/6-mannosidase-2 (GH38)	-	-	-
+N-glycan utilization in bifidobacteria	BlMan38C	Alpha-1,2/3/6-mannosidase-3 (GH38)	-	-	-
+N-glycan utilization in bifidobacteria	BlMan125	Alpha-1,6-mannosidase (GH125)	-	-	-
+N-glycan utilization in bifidobacteria	BlMan5B	N-glycan beta-mannosidase (GH5_18)	-	-	-
+N-glycan utilization in bifidobacteria	ManI	D-mannose isomerase (EC 5.3.1.7)	-	-	-
+N-glycan utilization in bifidobacteria	MnaA	Putative N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	MnaB	Putative N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	MnaC	Putative N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	MnaR	Putative transcriptional regulator of N-glycan utilization (LacI family)	-	-	-
+N-glycan utilization in bifidobacteria	BsAtsX	Putative anaerobic N-glycan sulfatase (EC 3.1.6.1)	-	-	-
+N-glycan utilization in bifidobacteria	BsAtsY	Putative anaerobic N-glycan sulfatase maturing enzyme	-	-	-
+N-glycan utilization in bifidobacteria	BsFuc29	Putative N-glycan alpha-L-fucosidase (GH29)	-	-	-
+N-glycan utilization in bifidobacteria	Hex3	Putative N-glycan beta-N-acetylglucosaminidase (GH20)	-	-	-
+N-glycan utilization in bifidobacteria	BiMan38	Putative ngl-cluster alpha-mannosidase (GH38)	-	-	-
+N-glycan utilization in bifidobacteria	BsMan2	Putative N-glycan beta-mannosidase (GH2)	-	-	-
+N-glycan utilization in bifidobacteria	BiMan5	Putative N-glycan beta-mannosidase (GH5_18)	-	-	-
+N-glycan utilization in bifidobacteria	NglA	Putative complex N-glycan ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	NglB	Putative complex N-glycan ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	NglC	Putative complex N-glycan ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+N-glycan utilization in bifidobacteria	NglR	Putative transcriptional regulator of complex N-glycan utilization (ROK family)	-	-	-
+N-glycan utilization in bifidobacteria	Hex1	Beta-1,3/4/6-N-acetylglucosaminidase-1 (GH20)	-	-	-
+N-glycan utilization in bifidobacteria	NahA	Beta-1,3/4/6-N-acetylglucosaminidase-2 (GH20)	-	-	-
+N-glycan utilization in bifidobacteria	AfcC	Alpha-1,6-L-fucosidase (GH29)	-	-	-
+N-glycan utilization in bifidobacteria	AfcT	Putative Fuc(a1-6)GlcNAc-peptide MFS permease (TC 2.A.1.68)	-	-	-
+O-glycan utilization in bifidobacteria	LnpA	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase (EC 2.4.1.211)	-	-	-
+O-glycan utilization in bifidobacteria	LnpB	N-acetylhexosamine 1-kinase (EC 2.7.1.162)	-	-	-
+O-glycan utilization in bifidobacteria	LnpC	UDP-glucose---hexose-1-phosphate uridylyltransferase (EC 2.7.7.12)	-	-	-
+O-glycan utilization in bifidobacteria	LnpD	UDP-hexose 4-epimerase (EC 5.1.3.2)	-	-	-
+O-glycan utilization in bifidobacteria	GltA	Lacto-N-biose/galacto-N-biose ABC transporter-1 substrate-binding component (TC 3.A.1.1.48)	-	-	-
+O-glycan utilization in bifidobacteria	GltB	Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 1 (TC 3.A.1.1.48)	-	-	-
+O-glycan utilization in bifidobacteria	GltC	Lacto-N-biose/galacto-N-biose ABC transporter-1 permease component 2 (TC 3.A.1.1.48)	-	-	-
+O-glycan utilization in bifidobacteria	GltF	Lacto-N-biose/galacto-N-biose ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+O-glycan utilization in bifidobacteria	GltG	Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+O-glycan utilization in bifidobacteria	GltH	Lacto-N-biose/galacto-N-biose ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+O-glycan utilization in bifidobacteria	AgaBb	Extracellular alpha-1,3-galactosidase (GH110)	-	-	-
+O-glycan utilization in bifidobacteria	BbgIII	Extracellular beta-1,4-galactosidase (GH2)	-	-	-
+O-glycan utilization in bifidobacteria	AgnB	Extracellular alpha-N-acetylglucosaminidase (GH89)	-	-	-
+O-glycan utilization in bifidobacteria	BbhI	Extracellular beta-1,3-N-acetylglucosaminidase (GH20)	-	-	-
+O-glycan utilization in bifidobacteria	BbhII	Extracellular 6-sulfo-beta-N-acetylglucosaminidase (GH20)	-	-	-
+O-glycan utilization in bifidobacteria	BbhIV	Extracellular beta-1,6-N-acetylglucosaminidase (GH84)	-	-	-
+O-glycan utilization in bifidobacteria	BbhV	Extracellular beta-N-acetylglucosaminidase (GH84)	-	-	-
+O-glycan utilization in bifidobacteria	LnbB	Extracellular lacto-N-biosidase (GH20)	-	-	-
+O-glycan utilization in bifidobacteria	LnbX	Extracellular lacto-N-biosidase (GH136)	-	-	-
+O-glycan utilization in bifidobacteria	NagBb	Alpha-N-acetylgalactosaminidase (GH129)	-	-	-
+O-glycan utilization in bifidobacteria	EngBF	Extracellular endo-alpha-N-acetylgalactosaminidase (GH101)	-	-	-
+O-glycan utilization in bifidobacteria	BbAfcA	Extracellular alpha-1,2-L-fucosidase (GH95)	-	-	-
+O-glycan utilization in bifidobacteria	BbAfcB	Extracellular alpha-1,3/4-L-fucosidase (GH29)	-	-	-
+O-glycan utilization in bifidobacteria	SiaBb1	Extracellular alpha-2,3/6/8-sialidase with acetylesterase (GH33)	-	-	-
+O-glycan utilization in bifidobacteria	SiaBb2	Extracellular alpha-2,3/6/8-sialidase (GH33)	-	-	-
+O-glycan utilization in bifidobacteria	BgnB	Putative extracellular beta-N-acetylgalactosaminidase (GH123)	-	-	-
+Maltose and starch utilization in bifidobacteria	Agl13B	Alpha-1,4/6-glucosidase (GH13_30)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalT	Putative maltose MFS permease (TC 2.A.1.2)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalE2	Putative maltose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalF2	Putative maltose ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalG2	Putative maltose ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalR5	Putative transcriptional regulator of maltose utilization MalR5 (LacI family)	-	-	-
+Maltose and starch utilization in bifidobacteria	Agl13A	Broad specificity alpha-glucosidase (GH13_30)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalR6	Putative transcriptional regulator of maltooligosaccharide utilization MalR6 (LacI family)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalE	Maltose and maltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalF	Maltose and maltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalG	Maltose and maltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalR1	Transcriptional regulator of maltooligosaccharide utilization MalR1 (LacI family)	-	-	-
+Maltose and starch utilization in bifidobacteria	Agl13C	Alpha-1,4-glucosidase (GH13_44)	-	-	-
+Maltose and starch utilization in bifidobacteria	PulA	Pullulanase (GH13_14)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalE3	Putative maltose and maltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalF3	Putative maltose and maltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalG3	Putative maltose and maltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalR3	Putative transcriptional regulator of maltooligosaccharide utilization MalR3 (LacI family)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalQ2	4-alpha-glucanotransferase (amylomaltase)-2 (EC 2.4.1.25)	-	-	-
+Maltose and starch utilization in bifidobacteria	GlgX	Putative glycogen debranching enzyme (GH13_11)	-	-	-
+Maltose and starch utilization in bifidobacteria	GlgX2	Putative glycogen debranching enzyme-2 (GH13_11)	-	-	-
+Maltose and starch utilization in bifidobacteria	GlgB	1,4-alpha-glucan (glycogen) branching enzyme (GH13_9)	-	-	-
+Maltose and starch utilization in bifidobacteria	GlgP	Glycogen phosphorylase (EC 2.4.1.1)	-	-	-
+Maltose and starch utilization in bifidobacteria	GlgE	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (EC 2.4.99.16)	-	-	-
+Maltose and starch utilization in bifidobacteria	Amy13A	Cytoplasmic alpha-amylase (GH13_20)	-	-	-
+Maltose and starch utilization in bifidobacteria	Amy13B	Putative extracellular alpha-amylase (GH13_32)	-	-	-
+Maltose and starch utilization in bifidobacteria	Amy13C	Putative extracellular alpha-amylase (GH13_5)	-	-	-
+Maltose and starch utilization in bifidobacteria	Amy13D	Putative extracellular alpha-amylase with CBM41 domain (GH13_32)	-	-	-
+Maltose and starch utilization in bifidobacteria	ApuB	Extracellular amylopullulanase (GH13_14_32)	-	-	-
+Maltose and starch utilization in bifidobacteria	RSD1	Extracellular RS-degrading alpha-amylase-1 (GH13_28)	-	-	-
+Maltose and starch utilization in bifidobacteria	RSD2	Extracellular RS-degrading alpha-amylase-2 (GH13_28)	-	-	-
+Maltose and starch utilization in bifidobacteria	RSD3	Extracellular RS-degrading alpha-amylase with CBM74 domain (GH13_28)	-	-	-
+Maltose and starch utilization in bifidobacteria	MalK	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	Agl13_31A	Alpha-1,6-glucosidase (GH13_31)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoA	Panose/isomaltooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoB	Panose/isomaltooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoC	Panose/isomaltooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoD	Putative panose/isomaltooligosaccharide ABC transporter-1 substrate-binding component (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoE	Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 1 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoF	Putative panose/isomaltooligosaccharide ABC transporter-1 permease component 2 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoR	Putative transcriptional regulator of panose/isomaltooligosaccharide utilization-1 (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	Agl13_31B	Alpha-1,6-glucosidase-2 (GH13_31)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoD2	Putative panose/isomaltooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	ImoR2	Putative transcriptional regulator of panose/isomaltooligosaccharide utilization-2 (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelD	Alpha-1,2/3/4-glucosidase (GH13_30)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelE	Alpha-1,3/4-galactosidase (GH36)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelA	Melezitose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelB	Melezitose ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelC	Melezitose ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelR1	Transcriptional regulator of melezitose utilization-1 (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MelR2	Transcriptional regulator of melezitose utilization-2 (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	Agl31A	Putative alpha-glucosidase (GH31)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglA	Predicted alpha-glucoside ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglB	Predicted alpha-glucoside ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglC	Predicted alpha-glucoside ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglR	Putative transcriptional regulator of alpha-glucoside utilization (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	Agl31B	Putative alpha-glucosidase-2 (GH31)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	MalR2	Putative transcriptional regulator of alpha-glucosidase (LacI family)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	Agl31C	Putative alpha-glucosidase-3 (GH31)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglA2	Predicted alpha-glucoside ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglB2	Predicted alpha-glucoside ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglC2	Predicted alpha-glucoside ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Alpha-glucoside utilization in bifidobacteria	AglR2	Putative transcriptional regulator of alpha-glucoside utilization-2 (LacI family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl3A	Beta-glucosidase-1 (GH3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BgrT1	Predicted transcriptional regulator of beta-glucoside utilization (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl3B	Beta-glucosidase-2 (GH3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BgrT2	Predicted transcriptional regulator of beta-glucoside utilization-2 (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl3C	Beta-glucosidase-3 (GH3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BaGlu1	Broad specificity beta-glucosidase (GH1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	CldC	Beta-glucosidase-1 (GH1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	CldE	Cellobiose and cellodextrin ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	CldF	Cellobiose and cellodextrin ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	CldG	Cellobiose and cellodextrin ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	CldR	Transcriptional regulator of cellobiose and cellodextrin utilization (LacI family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl1B	Beta-glucosidase-2 (GH1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglA	Putative beta-glucooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglB	Putative beta-glucooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglC	Putative beta-glucooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglR	Putative transcriptional regulator of beta-glucooligosaccharide utilization (LacI family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl1A	Putative beta-glucosidase-1 (GH1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglA2	Putative beta-glucooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglB2	Putative beta-glucooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglC2	Putative beta-glucooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglR2	Putative transcriptional regulator of beta-glucooligosaccharide utilization (AraC family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	GenP	Putative gentiobiose MFS permease (TC 2.A.1.2)	-	-	-
+Beta-glucoside utilization in bifidobacteria	LiSOGP	1,2-beta-oligoglucan phosphorylase (EC 2.4.1.333)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl3D	Putative beta-glucosidase-1 (GH3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglK	Putative beta-1,2-oligoglucan ABC transporter substrate-binding component (TC 3.A.1.5)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglL	Putative beta-1,2-oligoglucan ABC transporter permease component 1 (TC 3.A.1.5)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglM	Putative beta-1,2-oligoglucan ABC transporter permease component 2 (TC 3.A.1.5)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglN	Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 1 (TC 3.A.1.5)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglO	Putative beta-1,2-oligoglucan ABC transporter ATP-binding component 2 (TC 3.A.1.5)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglR3	Putative transcriptional regulator of beta-1,2-oligoglucan utilization (LacI family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgn30	Putative beta-glucanase (GH30_3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl3E	Putative beta-glucosidase-2 (GH3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl2	Putative glycoside hydrolase (GH2)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglX	Bgl cluster ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglY	Bgl cluster ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglZ	Bgl cluster ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglT	Predicted transcriptional regulator of the bgl cluster (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglPa	Putative beta-glucoside PTS system IIA component (TC 4.A.3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglPb	Putative beta-glucoside PTS system IIB component (TC 4.A.3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BglPc	Putative beta-glucoside PTS system IIC component (TC 4.A.3)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Bgl1C	6-phospho-beta-glucosidase (EC 3.2.1.86)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Gin30	Flavonoid/ginsenoside beta-xylosidase (GH30_2)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Gin43	Putative flavonoid/ginsenoside beta-xylosidase (GH43_11)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BlArap42B	Flavonoid/ginsenoside alpha-L-arabinopyranosidase (GH42)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Gin51	Putative flavonoid/ginsenoside alpha-L-arabinofuranosidase (GH51)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Gin5	Putative flavonoid/ginsenoside glycoside hydrolase (GH5_44)	-	-	-
+Beta-glucoside utilization in bifidobacteria	GinT	Predicted flavonoid/ginsenoside MFS permease (TC 2.A.1.2)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BgrT3	Predicted transcriptional regulator of beta-glucoside utilization-3 (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BgrT4	Predicted transcriptional regulator of beta-glucoside utilization-4 (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	BgrT6	Predicted transcriptional regulator of beta-glucoside utilization-6 (TetR family)	-	-	-
+Beta-glucoside utilization in bifidobacteria	Rgl78	Flavonoid/ginsenoside alpha-rhamnosidase (GH78)	-	-	-
+Beta-glucoside utilization in bifidobacteria	RglT	Putative rhamnoglycoside MFS permease (TC 2.A.1.2)	-	-	-
+Beta-glucoside utilization in bifidobacteria	RglT2	Putative rhamnoglycoside MFS permease (TC 2.A.1.1)	-	-	-
+Beta-glucoside utilization in bifidobacteria	RglR	Putative transcriptional regulator of rhamnoglycoside utilization (LacI family)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafA	Alpha-1,6/4/3-galactosidase (GH36)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafA2	Alpha-1,6-galactosidase (GH36)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafB	Raffinose family oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1.53)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafC	Raffinose family oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1.53)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafD	Raffinose family oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1.53)	-	-	-
+Alpha-galactoside utilization in bifidobacteria	RafR	Transcriptional regulator of raffinose family oligosaccharide utilization (ROK family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2A	Beta-1,4-galactosidase (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2B	Beta-1,4-galactosidase-2 (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2C	Beta-1,4-galactosidase-3 (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2E	Putative beta-galactosidase (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2F	Putative beta-galactosidase-2 (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	LacL	Beta-galactosidase large subunit (EC 3.2.1.23)	-	-	-
+Beta-galactoside utilization in bifidobacteria	LacM	Beta-galactosidase small subunit (EC 3.2.1.23)	-	-	-
+Beta-galactoside utilization in bifidobacteria	LacS	Lactose MFS permease (TC 2.A.2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	LacR	Putative transcriptional regulator of lactose utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga2D	Beta-1,3-galactosidase (GH2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosT	Beta-1,3-linked galactooligosaccharide MFS permease (TC 2.A.2)	-	-	-
+Beta-galactoside utilization in bifidobacteria	BgaR2	Putative transcriptional regulator of beta-1,3-linked galactooligosaccharide utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga42B	Beta-1,4-galactosidase (GH42)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga42C	Beta-1,4-galactosidase-2 (GH42)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga42D	Putative beta-galactosidase (GH42)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga35	Putative beta-galactosidase (GH35)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GalA	Extracellular endo-beta-1,4/3-galactanase (GH53)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosA	Beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosB	Beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosC	Beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosA2	Putative beta-1,4-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosB2	Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosC2	Putative beta-1,4-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosR	Transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosR2	Putative transcriptional regulator of beta-1,4-linked galactooligosaccharide utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bga42A	Beta-1,3/4/6-galactosidase (GH42)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosF	Beta-1,6-linked galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosG	Beta-1,6-linked galactooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosH	Beta-1,6-linked galactooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GosX	Putative galactooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	LctT	Lactulose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	BgaR	Putative transcriptional regulator of beta-1,6-linked galactooligosaccharide utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	BgaR3	Putative transcriptional regulator of galactooligosaccharide utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bll3HypBA1	Extracellular beta-1,3-L-arabinofuranosidase (GH146)	-	-	-
+Beta-galactoside utilization in bifidobacteria	BlArafA	Extracellular alpha-1,3-L-arabinofuranosidase (GH43_22)	-	-	-
+Beta-galactoside utilization in bifidobacteria	BlArafE	Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bl13Gal	Extracellular exo-beta-1,3-galactanase (GH43_24)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Bl16Gal	Extracellular exo-beta-1,6-galactobiohydrolase (GH30_5)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Gaf39	Extracellular 3-O-alpha-D-galactosyl-alpha-L-arabinofuranosidase (GH39)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Gaf36	Alpha-1,3-galactosidase (GH36)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GafA	Putative Gal(a1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GafB	Putative Gal(a1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GafC	Putative Gal(a1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	GafR	Putative transcriptional regulator of Gal(a1-3)Araf utilization (LacI family)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Aaf39	Extracellular 3-O-beta-L-arabinopyranosyl-alpha-L-arabinofuranosidase (GH39)	-	-	-
+Beta-galactoside utilization in bifidobacteria	Aaf36	Putative beta-L-arabinopyranosidase (GH36)	-	-	-
+Beta-galactoside utilization in bifidobacteria	AafA	Putative Arap(b1-3)Araf ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	AafB	Putative Arap(b1-3)Araf ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	AafC	Putative Arap(b1-3)Araf ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Beta-galactoside utilization in bifidobacteria	AafR	Putative transcriptional regulator of Arap(b1-3)Araf utilization (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	Frk	Fructokinase (EC 2.7.1.4)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruP	Putative fructose MFS permease (TC 2.A.1.7)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruE	Fructose/xylose/ribose/arabinose ABC transporter substrate-binding component (TC 3.A.1.2.23)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruF	Fructose/xylose/ribose/arabinose ABC transporter permease component 1 (TC 3.A.1.2.23)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruG	Fructose/xylose/ribose/arabinose ABC transporter permease component 2 (TC 3.A.1.2.23)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruK	Fructose/xylose/ribose/arabinose ABC transporter ATP-binding component (TC 3.A.1.2.23)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruA	Fructose-specific PTS system IIABC components (TC 4.A.1.2.18)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruA2a	Fructose-specific PTS system IIA component (TC 4.A.7)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruA2b	Fructose-specific PTS system IIB component (TC 4.A.7)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruA2c	Fructose-specific PTS system IIC component (TC 4.A.7)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruR	Putative transcriptional regulator of fructose utilization (ROK family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruR2	Putative transcriptional regulator of fructose-specific PTS system (GntR family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	FruT	Putative transcriptional antiterminator of fructose-specific PTS system (BglG family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrP	Sucrose phosphorylase (EC 2.4.1.7)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrT	Putative sucrose MFS permease (TC 2.A.1.2)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	Agl13D	Putative alpha-glucosidase (GH13_44)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrF	Putative sucrose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrG	Putative sucrose ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrH	Putative sucrose ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrR	Putative transcriptional regulator of sucrose utilization (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	AmsA	Amylosucrase (EC 2.4.1.4)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	CscA	Beta-2,1/6-fructofuranosidase-2 (GH32)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	CscB	Putative sucrose MFS permease (TC 2.A.1.5)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	CscR	Putative transcriptional regulator of sucrose utilization-2 (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrA	Putative beta-fructofuranosidase-1 (GH32)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrB	Putative sucrose/fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	ScrR2	Putative transcriptional regulator of sucrose utilization-3 (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrA	Beta-2,1/6-fructofuranosidase (GH32)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrB	Putative fructooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrC	Putative fructooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrD	Putative fructooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrR	Putative transcriptional regulator of fructooligosaccharide utilization (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrA2	Putative beta-fructofuranosidase-2 (GH32)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrB2	Putative fructooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrC2	Putative fructooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrD2	Putative fructooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrR2	Putative transcriptional regulator of fructooligosaccharide utilization-2 (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	BfrA3	Putative beta-fructofuranosidase-3 (GH32)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	aFFase1	Difructose dianhydride I synthase/hydrolase (GH172)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaA	Putative difructose dianhydride ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaB	Putative difructose dianhydride ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaC	Putative difructose dianhydride ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaR	Putative transcriptional regulator of caramelized fructose utilization (LacI family)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DFAase91	Difructose dianhydride III hydrolase (GH91)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaF	Putative difructose dianhydride ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaG	Putative difructose dianhydride ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaH	Putative difructose dianhydride ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Fructose and fructoside utilization in bifidobacteria	DfaR2	Putative transcriptional regulator of caramelized fructose utilization-2 (LacI family)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManA	Mannose-6-phosphate isomerase (EC 5.3.1.8)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManI	D-mannose isomerase (EC 5.3.1.7)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	Mnb2	Putative beta-1,4-mannosidase (GH2)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BaMan26A	Extracellular endo-beta-1,4-mannanase (GH26)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BlMan5_8	Extracellular endo-beta-1,4-mannanase (GH5_8)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BdAga36	Putative galactomannan oligosaccharide-acting alpha-1,6-galactosidase (GH36)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BaGlu1	Broad specificity beta-glucosidase (GH1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BdAme2	Putative acetylmannan esterase (CE2)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	MnbA	Beta-mannose-oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	MnbB	Beta-mannose-oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	MnbC	Beta-mannose-oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManE	Putative beta-mannose-oligosaccharide ABC transport system substrate-binding component (TC 3.A.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManF	Putative beta-mannose-oligosaccharide ABC transport system permease component 1 (TC 3.A.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManG	Putative beta-mannose-oligosaccharide ABC transport system permease component 2 (TC 3.A.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManL	Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 1 (TC 3.A.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	ManM	Putative beta-mannose-oligosaccharide ABC transport system ATP-binding component 2 (TC 3.A.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	MnbR	Predicted transcriptional regulator of beta-mannose-oligosaccharide utilization (LacI family)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BiMan2	Putative beta-1,4-mannosidase-2 (GH2)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	BiGlu1	Putative beta-1,4-glucosidase-2 (GH1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	GmoA	Putative glucomannan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	GmoB	Putative glucomannan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	GmoC	Putative glucomannan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Mannose and mannoside utilization in bifidobacteria	GmoR	Putative transcriptional regulator of glucomannan oligosaccharide utilization (LacI family)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylA	Xylose isomerase (EC 5.3.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylB	Xylulose kinase (EC 2.7.1.17)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylF	Putative xylose ABC transporter substrate-binding component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylG	Putative xylose ABC transporter ATP-binding component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylH	Putative xylose ABC transporter permease component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XylR	Putative transcriptional regulator of xylose utilization (ROK family)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	FruE	Fructose/xylose/ribose/arabinose ABC transporter substrate-binding component (TC 3.A.1.2.23)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	FruF	Fructose/xylose/ribose/arabinose ABC transporter permease component 1 (TC 3.A.1.2.23)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	FruG	Fructose/xylose/ribose/arabinose ABC transporter permease component 2 (TC 3.A.1.2.23)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	FruK	Fructose/xylose/ribose/arabinose ABC transporter ATP-binding component (TC 3.A.1.2.23)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraA	L-arabinose isomerase (EC 5.3.1.4)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraB	Ribulokinase (EC 2.7.1.16)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraF	Putative pentose (arabinose/xylose) ABC transporter substrate-binding component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraG	Putative pentose (arabinose/xylose) ABC transporter ATP-binding component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AraH	Putative pentose (arabinose/xylose) ABC transporter permease component (TC 3.A.1.2)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyl43C	Beta-1,4-xylosidase-3 (GH43_11)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpAbf43B	Monosubstituted AXOS alpha-1,2/3-L-arabinofuranosidase (GH43_12)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AXe20A	Putative XOS/AXOS acetyl or feruloyl esterase-1 (CE20)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AXeA	Putative XOS/AXOS acetyl or feruloyl esterase-1	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosA	XOS/AXOS ABC transporter-1 substrate-binding component (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosB	XOS/AXOS ABC transporter-1 permease component 1 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosC	XOS/AXOS ABC transporter-1 permease component 2 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosR	Putative transcriptional regulator of XOS/AXOS utilization (LacI family)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyl43A	Beta-1,4-xylosidase-1 (GH43_11)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyl120A	Beta-1,4-xylosidase-1 (GH120)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	RexA	Reducing end xylose-releasing exo-oligoxylanase-1 (GH8)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpAbf43A	Double substituted AXOS alpha-1,3-L-arabinofuranosidase (GH43_10)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	Abf43D	Putative alpha-L-arabinofuranosidase (GH43_27)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AXeB	Putative XOS/AXOS acetyl or feruloyl esterase-2	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosD	XOS/AXOS ABC transporter-2 substrate-binding component (TC 3.A.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosE	XOS/AXOS ABC transporter-2 permease component 1 (TC 3.A.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosF	XOS/AXOS ABC transporter-2 permease component 2 (TC 3.A.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosG	XOS/AXOS ABC transporter-2 ATP-binding component 1 (TC 3.A.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosH	XOS/AXOS ABC transporter-2 ATP-binding component 2 (TC 3.A.1.5)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyl43B	Beta-1,4-xylosidase-2 (GH43_11)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyl120B	Beta-1,4-xylosidase-2 (GH120)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	RexB	Reducing end xylose-releasing exo-oligoxylanase-2 (GH8)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AXe20B	Putative XOS/AXOS acetyl or feruloyl esterase-2 (CE20)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosK	Arabinoxylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosL	Arabinoxylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosM	Arabinoxylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BpXyn10A	Extracellular endo-beta-1,4-xylanase (GH10)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosR2	Putative transcriptional regulator of XOS/AXOS utilization-2 (LacI family)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BlArafD	Extracellular alpha-1,2/5-L-arabinofuranosidase (GH43_UC_26)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	BlArafE	Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AxuA	Extracellular monosubstituted arabinoxylan alpha-1,2/3-L-arabinofuranosidase (GH43_16)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	AxuB	Extracellular double substituted arabinoxylan alpha-L-arabinofuranosidase (GH43_10)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	Xyl120C	Putative beta-1,4-xylosidase (GH120)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosX	Putative xylooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosY	Putative xylooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosZ	Putative xylooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Xylose and xyloside utilization in bifidobacteria	XosR3	Putative transcriptional regulator of XOS utilization (TetR family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraA	L-arabinose isomerase (EC 5.3.1.4)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraB	Ribulokinase (EC 2.7.1.16)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraE	Putative arabinose MFS permease (TC 2.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraQ	Transcriptional regulator of arabinose utilization and central carbohydrate metabolism (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraF	Putative pentose (arabinose/xylose) ABC transporter substrate-binding component (TC 3.A.1.2)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraG	Putative pentose (arabinose/xylose) ABC transporter ATP-binding component (TC 3.A.1.2)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraH	Putative pentose (arabinose/xylose) ABC transporter permease component (TC 3.A.1.2)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AraU	Putative transcriptional regulator of arabinose transporter (ROK family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	FruE	Fructose/xylose/ribose/arabinose ABC transporter substrate-binding component (TC 3.A.1.2.23)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	FruF	Fructose/xylose/ribose/arabinose ABC transporter permease component 1 (TC 3.A.1.2.23)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	FruG	Fructose/xylose/ribose/arabinose ABC transporter permease component 2 (TC 3.A.1.2.23)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	FruK	Fructose/xylose/ribose/arabinose ABC transporter ATP-binding component (TC 3.A.1.2.23)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AbfC	Alpha-1,5-L-arabinofuranosidase (GH1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf43A	Alpha-1,2/3-L-arabinofuranosidase (GH43_27)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf43B	Alpha-1,5-L-arabinofuranosidase (GH43_26)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf43C	Putative alpha-L-arabinofuranosidase (GH43_22)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abn43A	Extracellular endo-alpha-1,5-L-arabinanase (GH43_4)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abn43B	Endo-alpha-1,5-L-arabinanase (GH43_4)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf146	Putative beta-L-arabinofuranosidase in alpha-AOS locus (GH146)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	CaeA	Hydroxycinnamic acid esterase	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauA	Putative alpha-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauB	Putative alpha-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauC	Putative alpha-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauR	Putative transcriptional regulator of alpha-arabinooligosaccharide utilization (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf51A	Putative alpha-1,5-L-arabinofuranosidase (GH51)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauN	Putative alpha-arabinooligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauP	Putative alpha-arabinooligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AauQ	Putative alpha-arabinooligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AbfR	Putative transcriptional regulator of alpha-arabinooligosaccharide utilization-2 (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf51B	Alpha-1,3/5-L-arabinofuranosidase (GH51)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf51C	Putative alpha-L-arabinofuranosidase (GH51)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafA	Extracellular alpha-1,3-L-arabinofuranosidase (GH43_22)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafB	Extracellular alpha-1,5-L-arabinofuranosidase (GH43_22)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafC	Extracellular alpha-1,2/3-L-arabinofuranosidase (GH43_27)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafD	Extracellular alpha-1,2/5-L-arabinofuranosidase (GH43_UC_26)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafE	Extracellular alpha-1,3/4-L-arabinofuranosidase (GH43_22_34)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BlArafX	Putative extracellular alpha-L-arabinofuranosidase (GH43_27)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	HypBA1	Beta-1,2-L-arabinofuranosidase (GH127)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	HypBA2	Extracellular beta-L-arabinobiosidase (GH121)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	HypAA	Extracellular alpha-1,3-L-arabinofuranosidase (GH43_29)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauA	Beta-arabinobiose ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauB	Beta-arabinobiose ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauC	Beta-arabinobiose ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauR1	Putative transcriptional regulator of beta-arabinooligosaccharide utilization (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Bll3HypBA1	Extracellular beta-1,3-L-arabinofuranosidase (GH146)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Bll4HypBA1	Extracellular beta-L-arabinofuranosidase (GH146)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf127C	Putative beta-1,2-L-arabinofuranosidase (GH127)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauT	Putative beta-arabinobiose MFS permease (TC 2.A.2)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauR2	Putative transcriptional regulator of beta-arabinooligosaccharide utilization-2 (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Bau39	Extracellular 3-O-beta-L-arabinopyranosyl-alpha-L-arabinofuranosidase-2 (GH39)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf127B	Beta-1,2/3/5-L-arabinofuranosidase (GH127)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abp36B	Beta-L-arabinopyranosidase-2 (GH36)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauE	Putative beta-arabinooligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauF	Putative beta-arabinooligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauG	Putative beta-arabinooligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	BauR3	Putative transcriptional regulator of beta-arabinooligosaccharide utilization-3 (LacI family)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abp27	Beta-L-arabinopyranosidase (GH27)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf127D	Putative beta-L-arabinofuranosidase (GH127)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abp36A	Beta-L-arabinopyranosidase (GH36)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf43D	Alpha-1,2/3/5-L-arabinofuranosidase (GH43_22)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	Abf51D	Alpha-1,2/3/5-L-arabinofuranosidase (GH51)	-	-	-
+Arabinose and arabinoside utilization in bifidobacteria	AbpR	Putative transcriptional regulator of beta-L-arabinopyranosidase (LacI family)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XylA	Xylose isomerase (EC 5.3.1.5)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XylB	Xylulose kinase (EC 2.7.1.17)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl31A	Putative alpha-xylosidase (GH31)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl1	Putative beta-1,4-glucosidase (GH1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglF	Putative xyloglucan oligosaccharide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglG	Putative xyloglucan oligosaccharide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglH	Putative xyloglucan oligosaccharide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglR	Putative transcriptional regulator of xyloglucan oligosaccharide utilization (LacI family)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl29	Putative xgl-cluster alpha-1,2-L-fucosidase (GH29)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl3	Putative xgl-cluster beta-1,4-glucosidase (GH3)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl31B	Putative xgl-cluster alpha-1,6-xylosidase (GH31)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl5A	Putative extracellular xyloglucan endo-beta-1,4-glucanase (GH5_4)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl5B	Putative xyloglucan endo-beta-1,4-glucanase (GH5_4)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl43	Putative xgl-cluster alpha-1,2-L-arabinofuranosidase (GH43_12)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl42	Putative xgl-cluster beta-1,2-galactosidase (GH42)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglE1	Putative xgl-cluster xyloglucan acetylesterase	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglK	Putative xgl-cluster beta-glucoside kinase (EC 2.7.1.85)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglA	Putative xyloglucan oligosaccharide ABC transporter-2 substrate-binding component (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglB	Putative xyloglucan oligosaccharide ABC transporter-2 permease component 1 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglC	Putative xyloglucan oligosaccharide ABC transporter-2 permease component 2 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	CbpA	Cellobiose phosphorylase (EC 2.4.1.20)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglE2	Putative xyloglucan acetylesterase	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglT	Putative transcriptional regulator of xyloglucan oligosaccharide utilization (TetR family)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl31C	Putative alpha-xylosidase-2 (GH31)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl51	Putative XglOS-acting alpha-L-arabinofuranosidase (GH51)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl36	Putative XglOS-acting beta-L-arabinopyranosidase (GH36)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglX	Putative xyloglucan oligosaccharide ABC transporter-3 substrate-binding component (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglY	Putative xyloglucan oligosaccharide ABC transporter-3 permease component 1 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglZ	Putative xyloglucan oligosaccharide ABC transporter-3 permease component 2 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglR2	Putative transcriptional regulator of xyloglucan oligosaccharide utilization-2 (LacI family)	-	-	-
+Xyloglucan catabolism in bifidobacteria	Xgl31D	Putative alpha-xylosidase-3 (GH31)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglN	Putative xyloglucan oligosaccharide ABC transporter-4 substrate-binding component (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglP	Putative xyloglucan oligosaccharide ABC transporter-4 permease component 1 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglQ	Putative xyloglucan oligosaccharide ABC transporter-4 permease component 2 (TC 3.A.1.1)	-	-	-
+Xyloglucan catabolism in bifidobacteria	XglR3	Putative transcriptional regulator of xyloglucan oligosaccharide utilization-3 (LacI family)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	UxaC	Uronate isomerase (EC 5.3.1.12)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	UxuB	D-mannonate oxidoreductase (EC 1.1.1.57)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	UxuA	Mannonate dehydratase (EC 4.2.1.8)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	KdgK2	Putative 2-dehydro-3-deoxygluconate kinase (EC 2.7.1.45)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	KdgD	Putative 2-dehydro-3-deoxy-6-phosphogluconate dehydrogenase (EC 1.1.1.-)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	ExuT	Putative D-glucuronate MFS permease (TC 2.A.2)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	UxuR1	Putative transcriptional regulator of D-glucuronate utilization-1 (LacI family)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	UxuR2	Putative transcriptional regulator of D-glucuronate utilization-2 (LacI family)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	Gus30	Putative beta-glucuronidase (GH30_9)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	Bgal59	Putative beta-galactosidase (GH59)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	Arha78	Putative alpha-L-rhamnosidase (GH78)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	Gus154	Putative beta-glucuronidase (GH154)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	ExuP	Putative glucuronide MFS permease (TC 2.A.2)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	GusA	Putative glucuronide ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	GusB	Putative glucuronide ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	GusC	Putative glucuronide ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+D-glucuronate and glucuronide utilization in bifidobacteria	GusR	Putative transcriptional regulator of the gus locus (LacI family)	-	-	-
+D-gluconate utilization in bifidobacteria	GntK	Gluconokinase (EC 2.7.1.12)	-	-	-
+D-gluconate utilization in bifidobacteria	Pgd	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	-	-	-
+D-gluconate utilization in bifidobacteria	GntT	Putative D-gluconate MFS permease (TC 2.A.8)	-	-	-
+D-gluconate utilization in bifidobacteria	GntR	Putative transcriptional regulator of gluconate utilization (GntR family)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoD	Galactonate dehydratase (EC 4.2.1.6)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoK	2-dehydro-3-deoxygalactonokinase (EC 2.7.1.58)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoA	2-dehydro-3-deoxyphosphogalactonate aldolase (EC 4.1.2.21)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoE	Putative D-galactonate ABC transporter substrate-binding component (TC 3.A.1.1)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoF	Putative D-galactonate ABC transporter permease component 1 (TC 3.A.1.1)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoG	Putative D-galactonate ABC transporter permease component 2 (TC 3.A.1.1)	-	-	-
+D-galactonate utilization in bifidobacteria	DgoR	Putative transcriptional regulator of D-galactonate utilization (IclR family)	-	-	-
+Inositol utilization in bifidobacteria	IolG1	Myo-inositol 2-dehydrogenase-1 (EC 1.1.1.18)	-	-	-
+Inositol utilization in bifidobacteria	IolG2	Myo-inositol 2-dehydrogenase-2 (EC 1.1.1.18)	-	-	-
+Inositol utilization in bifidobacteria	IolE	Scyllo-inosose dehydratase (EC 4.2.1.44)	-	-	-
+Inositol utilization in bifidobacteria	IolD	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.22)	-	-	-
+Inositol utilization in bifidobacteria	IolB	5-deoxy-glucuronate isomerase (EC 5.3.1.30)	-	-	-
+Inositol utilization in bifidobacteria	IolP	Putative alcohol dehydrogenase (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	IolQ	Putative aldehyde dehydrogenase (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	InoD	Putative decarboxylating dehydrogenase (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	InoK	Putative pyruvate phosphate dikinase (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	InoXn	Putative transketolase N-terminal subunit (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	InoXc	Putative transketolase C-terminal subunit (inositol utilization locus)	-	-	-
+Inositol utilization in bifidobacteria	IolT1	Putative inositol MFS permease-1 (TC 2.A.1.1)	-	-	-
+Inositol utilization in bifidobacteria	IolT2	Putative inositol MFS permease-2 (TC 2.A.1.1)	-	-	-
+Inositol utilization in bifidobacteria	InoR1	Putative transcriptional regulator of inositol utilization-1 (IclR family)	-	-	-
+Inositol utilization in bifidobacteria	InoR2	Putative transcriptional regulator of inositol utilization-2 (IclR family)	-	-	-
+Inositol utilization in bifidobacteria	InoS	Putative transcriptional regulator of inositol utilization (AraC family)	-	-	-
+Sugar alcohol utilization in bifidobacteria	MtlD	Mannitol 2-dehydrogenase (EC 1.1.1.67)	-	-	-
+Sugar alcohol utilization in bifidobacteria	Frk	Fructokinase (EC 2.7.1.4)	-	-	-
+Sugar alcohol utilization in bifidobacteria	MtlP	Putative mannitol MFS permease (TC 2.A.1.18)	-	-	-
+Sugar alcohol utilization in bifidobacteria	GutB	Sorbitol dehydrogenase (EC 1.1.1.14)	-	-	-
+Sugar alcohol utilization in bifidobacteria	StlP	Putative sorbitol MFS permease (TC 2.A.1.18)	-	-	-
+Sugar alcohol utilization in bifidobacteria	MtlR	Putative transcriptional regulator of mannitol utilization (ROK family)	-	-	-
+Sugar alcohol utilization in bifidobacteria	StlR	Putative transcriptional regulator of sorbitol utilization (AraC family)	-	-	-
+Ascorbate utilization in bifidobacteria	AscK	Putative ascorbate kinase	-	-	-
+Ascorbate utilization in bifidobacteria	AscG	Putative L-ascorbate-6-phosphate lactonase (EC 3.1.1.-)	-	-	-
+Ascorbate utilization in bifidobacteria	SgbH	3-keto-L-gulonate-6-phosphate decarboxylase (EC 4.1.1.85)	-	-	-
+Ascorbate utilization in bifidobacteria	SgbU	L-xylulose-5-phosphate 3-epimerase (EC 5.1.3.22)	-	-	-
+Ascorbate utilization in bifidobacteria	AraD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	-	-	-
+Ascorbate utilization in bifidobacteria	AscT	Putative ascorbate MFS permease (TC 2.A.1)	-	-	-
+Ascorbate utilization in bifidobacteria	AscR	Putative transcriptional regulator of ascorbate utilization (DeoR family)	-	-	-
+Ascorbate utilization in bifidobacteria	XulT	Putative L-xylulose-specific PTS system IIC component (TC 4.A.5)	-	-	-
+Ascorbate utilization in bifidobacteria	XulK	L-xylulokinase (EC 2.7.1.53)	-	-	-
+Ascorbate utilization in bifidobacteria	XulR	Putative transcriptional regulator of L-xylulose utilization (SorC family)	-	-	-
