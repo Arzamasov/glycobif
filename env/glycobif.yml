@@ -16,9 +16,10 @@ dependencies:
   - scipy
 
   # R dependencies
-  - r-base=4.2
+  - r-base=4.3
   - r-data.table
   - r-openxlsx
   - r-caret
   - r-yaml
   - r-ranger
+  - r-tidyverse
