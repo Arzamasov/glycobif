@@ -25,7 +25,9 @@ $ mamba env create -f env/glycobif.yml
 $ bash run_glycobif.sh
 ```
 This will run the pipeline for *Bifidobacterium longum* subsp. *infantis* ATCC 15697 and output the results to the `output/` directory.
+
 **Note:** If your mamba/conda environment has a name different from glycobif, manually specify it in `run_glycobif.sh` before running the script.
+
 **Note2:** If you experience R package version errors after installation, reinstall `caret` through R in the created environment
 
 ## Usage
@@ -42,10 +44,10 @@ ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
 $ bash run_glycobif.sh [-t num_threads] [-i input_directory_faa] [-l input_list] [-o output_directory]
 ```
 Parameters:
-`-t` - number of CPUs to use; default `1`
-`-i` - path to input directory; default `input/faa`
-`-l` - path to genome list file; default `input/genome_list.txt`
-`-o` - output directory;  default `output`
+* `-t` - number of CPUs to use; default `1`
+* `-i` - path to input directory; default `input/faa`
+* `-l` - path to genome list file; default `input/genome_list.txt`
+* `-o` - output directory;  default `output`
 
 ## Output
 1. `BPM.xlsx` - a Binary Phenotype Matrix (BPM) that contains the binary representation of 68 carbohydrate utilization pathways (1 = complete pathway is present, 0 = pathway is absent or incomplete)
