@@ -17,12 +17,12 @@ Glycobif requires the following dependencies:
 
 **To create a mamba/conda environment with the required dependencies, run:**
 ```
-$ mamba env create -f env/glycobif.yml
+mamba env create -f env/glycobif.yml
 ```
 
 **To test the pipeline, run:**
 ```
-$ bash run_glycobif.sh
+bash run_glycobif.sh
 ```
 This will run the pipeline for *Bifidobacterium longum* subsp. *infantis* ATCC 15697 and output the results to the `output/` directory.
 
@@ -41,7 +41,7 @@ ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
 
 **Basic usage**
 ```
-$ bash run_glycobif.sh [-t num_threads] [-i input_directory_faa] [-l input_list] [-o output_directory]
+bash run_glycobif.sh [-t num_threads] [-i input_directory_faa] [-l input_list] [-o output_directory]
 ```
 Parameters:
 * `-t` - number of CPUs to use; default `1`
