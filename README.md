@@ -11,7 +11,7 @@ is available at [Arzamasov et al., 2024](https://doi.org/10.1101/2024.07.06.6023
 
 ## Dependencies and installation
 Glycobif requires the following dependencies:
- * [DIAMOND](https://github.com/bbuchfink/diamond)
+ * [DIAMOND](https://github.com/bbuchfink/diamond) (tested v2.1.4 and v2.1.11)
  * Python libraries: `pandas`, `numpy`, `tqdm`, `scikit-learn`, `scipy`
  * R libraries: `data.table`, `openxlsx`, `caret`, `yaml`, `ranger`, `tidyverse`
 
@@ -20,7 +20,7 @@ Glycobif requires the following dependencies:
 mamba env create -f env/glycobif.yml
 ```
 
-**To test the pipeline, run:**
+**To test the pipeline, download the repository and run:**
 ```
 bash run_glycobif.sh
 ```
