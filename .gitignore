@@ -1,4 +1,5 @@
 .DS_Store
+.Rhistory
 tmp
 output
 input/genome_list_a.txt
