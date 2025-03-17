@@ -15,12 +15,12 @@ Glycobif requires the following dependencies:
  * Python libraries: `pandas`, `numpy`, `tqdm`, `scikit-learn`, `scipy`
  * R libraries: `data.table`, `openxlsx`, `caret`, `yaml`, `ranger`, `tidyverse`
 
-**To create a mamba/conda environment with the required dependencies, run:**
+**To create a mamba/conda environment with the required dependencies, download the repository and run:**
 ```
 mamba env create -f env/glycobif.yml
 ```
 
-**To test the pipeline, download the repository and run:**
+**To test the pipeline, run:**
 ```
 bash run_glycobif.sh
 ```
