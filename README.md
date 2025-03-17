@@ -11,18 +11,18 @@ is available at [Arzamasov et al., 2024](https://doi.org/10.1101/2024.07.06.6023
 
 ## Dependencies and installation
 Glycobif requires the following dependencies:
- * [DIAMOND](https://github.com/bbuchfink/diamond)
+ * [DIAMOND](https://github.com/bbuchfink/diamond) (tested v2.1.4 and v2.1.11)
  * Python libraries: `pandas`, `numpy`, `tqdm`, `scikit-learn`, `scipy`
  * R libraries: `data.table`, `openxlsx`, `caret`, `yaml`, `ranger`, `tidyverse`
 
-**To create a mamba/conda environment with the required dependencies, run:**
+**To create a mamba/conda environment with the required dependencies, download the repository and run:**
 ```
-$ mamba env create -f env/glycobif.yml
+mamba env create -f env/glycobif.yml
 ```
 
 **To test the pipeline, run:**
 ```
-$ bash run_glycobif.sh
+bash run_glycobif.sh
 ```
 This will run the pipeline for *Bifidobacterium longum* subsp. *infantis* ATCC 15697 and output the results to the `output/` directory.
 
@@ -33,7 +33,7 @@ This will run the pipeline for *Bifidobacterium longum* subsp. *infantis* ATCC 1
 ## Usage
 Glycobif uses two inputs:
 * Amino acid FAA files
-* Tab-separated file with genome_IDs and taxonomy (genome list)
+* Tab-separated file (genome list) with two columns: (i) genome_IDs (names of FAA files without the extension) and (ii) taxonomy 
 ```
 genome_ID	curated_taxonomy
 ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
@@ -41,7 +41,7 @@ ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
 
 **Basic usage**
 ```
-$ bash run_glycobif.sh [-t num_threads] [-i input_directory_faa] [-l input_list] [-o output_directory]
+bash run_glycobif.sh [-t num_threads] [-i input_directory_faa] [-l input_list] [-o output_directory]
 ```
 Parameters:
 * `-t` - number of CPUs to use; default `1`
