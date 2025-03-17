@@ -33,7 +33,7 @@ This will run the pipeline for *Bifidobacterium longum* subsp. *infantis* ATCC 1
 ## Usage
 Glycobif uses two inputs:
 * Amino acid FAA files
-* Tab-separated file with genome_IDs and taxonomy (genome list)
+* Tab-separated file (genome list) with two columns: (i) genome_IDs (names of FAA files without the extension) and (ii) taxonomy 
 ```
 genome_ID	curated_taxonomy
 ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
