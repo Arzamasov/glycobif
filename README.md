@@ -1,5 +1,5 @@
 # glycobif
-**Glycobif** is a tool for predicting carbohydrate utilization pathways in bifidobacterial genomes.
+**Glycobif** is a tool for predicting carbohydrate utilization pathways encoded in bifidobacterial genomes.
 Using amino acid FASTA files as input, it analyzes the representation of 589 curated metabolic functional roles (catabolic enzymes, transporters, and transcriptional regulators) and 68 curated carbohydrate utilization pathways.
 
 A preprint detailing:
