@@ -54,17 +54,18 @@ Parameters:
      * Full pathway descriptions are available in `dictionary\phenotype_metadata_carbs.txt`
 2. `PredictionsFull.xlsx` - a table representing the presence of functional roles in each pathway (1 = role is present, 0 = role is absent)
      * Full descriptions of functional roles are available in`dictionary\functional_roles.txt`
-3.`tmp` - a folder containing temporary files, such as annotation files with locus tags of genes.
+3. `tmp` - a folder containing temporary files, such as annotation files with locus tags of genes.
 
 ## Best practices and limitations
-1. Glycobif is designed for use with the genomes of human-colonizing *Bifidobacterium* species. While it will produce meaningful output for non-human *Bifidobacterium* species, they may contain pathways not represented in the curated set of 68 pathways (e.g., pectin degradation). Glycobif may also work with genomes from closely related genera like *Alloscardovia*, but it is not designed for use with other bacterial taxa
-2. Glycobif works best with the genomes of cultured isolates as input. In this case, the presence of carbohydrate utilization pathways can be directly interpreted as predicted carbohydrate utilization capabilities (phenotypes)
-3. Glycobif also works with metagenome-assembled genomes (MAGs), but there are several caveats:
-     * Using MAGs with low completeness and high contamination may lead to false negative and false positive pathway predictions, respectively. We recommend using MAGs with completeness >97% and contamination <3% for more reliable results
-     * MAGs may not correspond to individual bacterial strains. As a result, the predicted carbohydrate utilization pathways represent the metabolic potential of the community rather than a single organism
-4. While the overall prediction accuracy is high (>94%), comparison with *in vitro* growth data in [Arzamasov et al., 2024](https://doi.org/10.1101/2024.07.06.602360) revealed the presence of false negative and false positive predictions:
-	- False negative predictions for monosaccharides (e.g., ribose) and certain human milk oligosaccharides (LNT) can occur due to incomplete pathway predictions, resulting from limited knowledge about respective glycan transporters (i.e., when a catabolic pathway is present, but known transporter is absent, glycobif assigns 0 instead of 1). If you are particularly interested in these pathways, please check the output file `PredictionsFull.xlsx` for the genomes of interest and consider manual curation
-	- False positive predictions may arise due to mutations in genes encoding functional roles. Glycobif, in its current implementation, does not account for such mutations
+1. **Intended use**: glycobif is optimized for genomes of human-colonizing Bifidobacterium species. It can produce meaningful predictions for non-human *Bifidobacterium* genomes, though these may contain pathways not included in the curated set of 68 (e.g., pectin degradation). Predictions may also be generated for closely related genera such as *Alloscardovia*, but glycobif is not designed for broader application beyond these taxa
+2. **Input genome type**: glycobif performs best with the genomes of cultured isolates. In these cases, predicted carbohydrate utilization pathways can be interpreted directly as predicted phenotypes (i.e., carbohydrate utilization capabilities)
+3. Use with MAGs: glycobif can predict the pathway represntation encoded in  metagenome-assembled genomes (MAGs), but several caveats apply:
+     * MAGs with low completeness or high contamination (especially assembled from short-read data) can lead to false negatives and false positives, respectively. For reliable predictions, we recommend using MAGs with >97% completeness and <3% contamination
+     * Short-read MAGs are particularly susceptible to assembly fragmentation, which can split gene clusters across multiple contigs and lead to underprediction of specific pathways. A notable example is the HMO cluster I (H1) in *Bifidobacterium longum* subsp. *infantis*, where genes may appear to be missing due to assembly artifacts rather than true genomic variation. We recommend manually reviewing the presence and continuity of such clusters in MAGs of interest
+     * MAGs may not represent individual strains. Consequently, pathway predictions reflect the collective metabolic potential of the bin rather than a single organism
+4. **Prediction accuracy and caveats**: While glycobif achieves high overall phenotype prediction accuracy (>94%), benchmarking against *in vitro* growth data in [Arzamasov et al., 2024](https://doi.org/10.1101/2024.07.06.602360) identified two common sources of error:
+	- **False negatives**, for certain monosaccharides (e.g., ribose) and human milk oligosaccharides (e.g., LNT), can occur when a complete catabolic pathway is present but the associated transporter is not detected, often due to gaps in current scientific knowledge. In such cases of perceived pathway incompleteness, Glycobif assigns a binary phenotype of 0. If these pathways are of interest, users are encouraged to inspect the `PredictionsFull.xlsx` output to examine the representation of individual functional roles
+	- **False positives** may result from disruptive mutations in genes encoding key pathway components. The current version of glycobif does not evaluate gene integrity or functionality at the nucleotide level
 
 ## Citation
 If you used glycobif, please cite the following manuscript:
