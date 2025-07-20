@@ -69,4 +69,4 @@ Parameters:
 
 ## Citation
 If you used glycobif, please cite the following manuscript:
-[Arzamasov et al., 2024](https://doi.org/10.1101/2024.07.06.602360)
+[Arzamasov et al., 2025](https://doi.org/10.1038/s41564-025-02056-x)
