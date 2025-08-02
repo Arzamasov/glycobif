@@ -51,9 +51,9 @@ Parameters:
 
 ## Output
 1. `BPM.xlsx` - a Binary Phenotype Matrix (BPM) that contains the binary representation of 68 carbohydrate utilization pathways (1 = complete pathway is present, 0 = pathway is absent or incomplete)
-     * Full pathway descriptions are available in `dictionary\phenotype_metadata_carbs.txt`
+     * Full pathway descriptions are available in `dictionary/phenotype_metadata_carbs.txt`
 2. `PredictionsFull.xlsx` - a table representing the presence of functional roles in each pathway (1 = role is present, 0 = role is absent)
-     * Full descriptions of functional roles are available in`dictionary\functional_roles.txt`
+     * Full descriptions of functional roles are available in`dictionary/functional_roles.txt`
 3. `tmp` - a folder containing temporary files, such as annotation files with locus tags of genes.
 
 ## Best practices and limitations
