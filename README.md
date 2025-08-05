@@ -36,7 +36,7 @@ Glycobif uses two inputs:
 * Tab-separated file (genome list) with two columns: (i) genome_IDs (names of FAA files without the extension) and (ii) taxonomy 
 ```
 genome_ID	curated_taxonomy
-ATCC15697	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222
+ATCC15697	Bifidobacterium longum subsp. infantis
 ```
 
 **Basic usage**
